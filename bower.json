@@ -1,0 +1,30 @@
+{
+  "name": "chrisvogt.github.io",
+  "version": "0.9.0",
+  "homepage": "http://chrisvogt.github.io",
+  "authors": [
+    "Chris Vogt <mail@chrisvogt.me>"
+  ],
+  "description": "Personal project sandbox and directory.",
+  "main": "index.html",
+  "keywords": [
+    "personal",
+    "sandbox",
+    "projects",
+    "portfolio"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fittext": "*",
+    "jasny-bootstrap": "~3.1.3"
+  }
+}

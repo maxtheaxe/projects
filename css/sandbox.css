@@ -1,0 +1,173 @@
+/*
+███████╗ █████╗ ███╗   ██╗██████╗ ██████╗  ██████╗ ██╗  ██╗
+██╔════╝██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔═══██╗╚██╗██╔╝
+███████╗███████║██╔██╗ ██║██║  ██║██████╔╝██║   ██║ ╚███╔╝
+╚════██║██╔══██║██║╚██╗██║██║  ██║██╔══██╗██║   ██║ ██╔██╗
+███████║██║  ██║██║ ╚████║██████╔╝██████╔╝╚██████╔╝██╔╝ ██╗
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
+                                            by CJ Vogt   */
+
+/* Structure */
+html, body {
+  height: 100%;
+}
+
+body {
+  background: #efefef;
+  padding: 50px 0 0 0;
+  font: 16px/1.8 sans-serif;
+}
+
+/* Typography */
+h1 {
+  background: rgba(0,0,0,0.2);
+  text-align: center;
+  color:#fff;
+  font: 95px/1 "Bree Serif";
+  text-transform: uppercase;
+  display: inline-block;
+  text-shadow:#0080ff -1px 1px 0,
+  #253e45 -2px 2px 0,
+  #d45848 -3px 3px 0,
+  #d45848 -4px 4px 0;
+  width: 100%;
+  margin: 0 auto 5%;
+}
+@font-face {
+  font-family: 'fontello';
+  src: url('font/fontello.eot?16916414');
+  src: url('font/fontello.eot?16916414#iefix') format('embedded-opentype'),
+       url('font/fontello.woff?16916414') format('woff'),
+       url('font/fontello.ttf?16916414') format('truetype'),
+       url('font/fontello.svg?16916414#fontello') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+h4 {
+  font-family: 'Bree Serif', serif;
+}
+.sb-icon
+{
+  font-family: "fontello";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+
+  /* You can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+
+  /* Font smoothing. That was taken from TWBS */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+
+/* Masthead */
+.page-header {
+  margin: 0 auto;
+  background: url(../img/ddotted.png) repeat;
+}
+#title {
+  margin-bottom: 0;
+}
+
+.navbar-toggle {
+  float: left;
+  margin-left: 15px;
+}
+
+/* Cards */
+.src-image {
+  display: none;
+}
+
+.features .row {
+  margin-bottom: 24px;
+}
+
+.social {
+  text-align: center;
+
+  padding: 8px 0;
+  margin-bottom: 24px;
+  border-bottom: 1px solid #cecece;
+  border-top: 1px solid white;
+
+  background: #ffffff; /* Old browsers */
+  background: -moz-linear-gradient(top, #ffffff 0%, #f3f3f3 50%, #ededed 51%, #ffffff 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(50%,#f3f3f3), color-stop(51%,#ededed), color-stop(100%,#ffffff)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #ffffff 0%,#f3f3f3 50%,#ededed 51%,#ffffff 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #ffffff 0%,#f3f3f3 50%,#ededed 51%,#ffffff 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #ffffff 0%,#f3f3f3 50%,#ededed 51%,#ffffff 100%); /* IE10+ */
+  background: linear-gradient(to bottom, #ffffff 0%,#f3f3f3 50%,#ededed 51%,#ffffff 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+}
+
+/* Features */
+.card {
+  overflow: hidden;
+  position: relative;
+  border: 1px solid #CCC;
+  border-radius: 8px;
+  text-align: center;
+  padding: 0;
+  background-color: #fefefe;
+  color: rgb(136, 172, 217);
+}
+
+.card .header-bg {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 70px;
+  border-bottom: 1px #cecece solid;
+  z-index: 1;
+  background: url(http://subtlepatterns.com/patterns/paisley.png) #fefefe;
+}
+
+footer {
+  height: 124px;
+  background: url(../img/ddotted.png) repeat;
+  padding: 8px 24px;
+  color: #aeaeae;
+}
+
+
+/* Media Queries */
+@media (min-width: 0) {
+  .navbar-toggle {
+    display: block; /* force showing the toggle */
+  }
+}
+
+@media (min-width: 992px) {
+  body {
+    padding: 0;
+  }
+  .navbar {
+    right: auto;
+    background: none;
+    border: none;
+  }
+}

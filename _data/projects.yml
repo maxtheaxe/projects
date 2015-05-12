@@ -1,0 +1,41 @@
+- name: Friends Of Cake Website
+  github: chrisvogt/FriendsOfCake.github.io
+  demo: http://www.friendsofcake.com
+  banner: http://i.imgur.com/7r6JKzP.gif
+
+- name: JavaScript Primality Experiment
+  github: chrisvogt/JS-Primality-Experiment
+  demo: http://chrisvogt.github.io/JS-Primality-Experiment/
+  banner: https://cdn.rawgit.com/chrisvogt/JS-Primality-Experiment/develop/screenshot.gif
+
+- name: WoW Character Viewer
+  github: chrisvogt/wowchar-info
+  demo: http://wowchar.info
+  banner: http://i.imgur.com/NAuq5zT.gif
+
+- name: Marble Interface Tumblr Theme
+  github: chrisvogt/marbleinterface-tumblr
+  demo: http://marbleinterface.tumblr.com/
+  banner: https://res.cloudinary.com/chrisvogt/image/upload/v1430085209/projects/marbleinterface-banner.jpg
+
+- name: GamertagDB
+  demo: http://www.gamertagdb.com
+  banner: https://res.cloudinary.com/chrisvogt/image/upload/v1422103155/gamertagdb/email/GTMainPicture.jpg
+
+- name: WoW Character Polymer Component
+  github: chrisvogt/wow-profile-card
+  demo: http://chrisvogt.github.io/wow-profile-card/bower_components/wow-profile-card/demo.html
+  banner: https://res.cloudinary.com/chrisvogt/image/upload/v1420461939/wow-profile-card_p6i5ys.jpg
+
+- name: GitHub Repo Polymer Component
+  github: chrisvogt/github-repo-card
+  demo: http://chrisvogt.github.io/github-repo-card/components/github-repo-card/demo.html
+  banner: http://res.cloudinary.com/chrisvogt/image/upload/v1420351341/screenshot-github-repo-card_tqlf5w.png
+
+- name: PHPMgac
+  github: chrisvogt/php-menu-grab-and-convert
+  banner: https://res.cloudinary.com/chrisvogt/image/upload/v1421541648/gamertagdb/gallery/3-th.jpg
+
+- name: CakePHP Wyzant API Consumer
+  github: chrisvogt/WyzantSearch
+  banner: https://res.cloudinary.com/chrisvogt/image/upload/v1421541648/gamertagdb/gallery/3-th.jpg

@@ -1,0 +1,4 @@
+paginate: 9
+gh_base_url: "https://github.com/"
+exclude:
+  - README.md

@@ -1,0 +1,22 @@
+---
+layout: default
+title: sandbox
+---
+
+<div class="container features">
+  <div class="row">
+    <p>A directory of public projects I have created or contribute to frequently.</p>
+  </div>
+
+  {% for project in site.data.projects %}
+    {% capture modulo %}{{ forloop.index0 | mod:3 }}{% endcapture %}
+
+    {% if modulo == '0' or forloop.first %}
+    <div class="row">
+    {% endif %}
+      {% include feature.html %}
+    {% if modulo == '2' or forloop.last %}
+    </div><!-- /.row -->
+    {% endif %}
+  {% endfor %}
+</div><!-- /.features -->

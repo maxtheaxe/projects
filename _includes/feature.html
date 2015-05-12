@@ -1,0 +1,25 @@
+<div class="col-sm-4">
+  <div class="card">
+    <canvas class="header-bg" style="background: url({{ project.banner }}) center;background-size:cover;" width="250" height="70"></canvas>
+    <div class="content">
+      <h4>{{ project.name }}</h4>
+      {% if project.github %}
+      <p>
+        <a href="#"><img src="https://img.shields.io/github/release/{{ project.github }}.svg?style=flat-square"></a>
+        <a href="#"><img src="https://img.shields.io/codeclimate/github/{{ project.github }}.svg?style=flat-square"></a>
+        <a href="#"><img src="https://img.shields.io/travis/chrisvogt/{{ project.github }}.svg?style=flat-square"></a>
+      </p>
+      {% endif %}
+      <p>
+        <a href="{% if project.demo %}{{ project.demo }}{% endif %}" class="btn btn-default" {% if project.demo == nil %}disabled{% endif %}>
+          <i class="sb-icon icon-globe">&#xe801;</i>
+          Demo
+        </a>
+        <a href="https://github.com/{{ project.github }}" class="btn btn-default" {% if project.github == nil %}disabled{% endif %}>
+          <i class="sb-icon icon-github-circled-alt2">&#xe803;</i>
+          Source
+        </a>
+      </p>
+    </div>
+  </div>
+</div>
