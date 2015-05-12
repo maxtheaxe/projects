@@ -105,6 +105,14 @@ h4 {
   margin-bottom: 24px;
 }
 
+.features .col-sm-4 {
+  margin-bottom: 18px;
+}
+
+.features .card {
+  min-height: 204px;
+}
+
 .social {
   text-align: center;
 

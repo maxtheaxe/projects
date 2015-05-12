@@ -8,16 +8,9 @@ title: sandbox
     <p>A directory of public projects I have created or contribute to frequently.</p>
   </div>
 
+  <div class="row">
   {% for project in site.data.projects %}
-    {% capture marker %}{{ forloop.index | modulo:3 }}{% endcapture %}
-
-    {% if marker == '0' or forloop.first %}
-    <div class="row">
-    {% endif %}
-      {% include feature.html %}
-    {% if marker == '0' or forloop.last %}
-    </div><!-- /.row -->
-    {% endif %}
+    {% include feature.html %}
   {% endfor %}
+  </div>
 </div><!-- /.features -->
-</div>
