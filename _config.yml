@@ -1,4 +1,4 @@
 paginate: 9
-gh_base_url: "https://github.com/"
+analytics: "UA-33558417-8"
 exclude:
   - README.md
