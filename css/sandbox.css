@@ -115,6 +115,7 @@ h4 {
 
 .social {
   text-align: center;
+  min-height: 51px;
 
   padding: 8px 0;
   margin-bottom: 24px;
