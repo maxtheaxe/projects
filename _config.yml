@@ -1,4 +1,8 @@
 paginate: 9
+title: "Sandbox"
+author: "Chris Vogt"
+description: "Portfolio of personal projects made with PHP, CakePHP, Jekyll, Wordpress, and more."
+banner: "https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/develop/img/og-banner.jpg"
 analytics: "UA-33558417-8"
 exclude:
   - README.md
