@@ -1,3 +1,7 @@
+- name: Wordpress.org Support Enhancement Kit
+  github: chrisvogt/wordpress-support-enhancement-kit
+  banner: https://cdn.rawgit.com/chrisvogt/wordpress-support-enhancement-kit/master/assets/banner.png
+
 - name: Friends Of Cake Website
   github: chrisvogt/FriendsOfCake.github.io
   demo: http://www.friendsofcake.com
@@ -11,7 +15,7 @@
 - name: WoW Character Viewer
   github: chrisvogt/wowchar-info
   demo: http://wowchar.info
-  banner: http://i.imgur.com/NAuq5zT.gif
+  banner: https://cdn.rawgit.com/chrisvogt/wowchar-info/master/webroot/img/banner-bg.jpg
 
 - name: Marble Interface Tumblr Theme
   github: chrisvogt/marbleinterface-tumblr
@@ -39,3 +43,8 @@
 - name: CakePHP Wyzant API Consumer
   github: chrisvogt/WyzantSearch
   banner: https://res.cloudinary.com/chrisvogt/image/upload/v1421541648/gamertagdb/gallery/3-th.jpg
+
+- name: Art In Reality, LLC
+  github: artinreality/artinreality.github.io
+  demo: http://www.artinreality.com/
+  banner: https://res.cloudinary.com/chrisvogt/image/upload/v1430078710/projects/artinreality/og-banner.png
