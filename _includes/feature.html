@@ -5,9 +5,9 @@
       <h4>{{ project.name }}</h4>
       {% if project.github %}
       <p>
-        <a href="#"><img src="https://img.shields.io/github/release/{{ project.github }}.svg?style=flat-square"></a>
-        <a href="#"><img src="https://img.shields.io/codeclimate/github/{{ project.github }}.svg?style=flat-square"></a>
-        <a href="#"><img src="https://travis-ci.org/{{ project.github }}.svg"></a>
+        <a href="https://github.com/{{ project.github }}/releases"><img src="https://img.shields.io/github/release/{{ project.github }}.svg?style=flat-square"></a>
+        <a href="https://codeclimate.com/github/{{ project.github }}"><img src="https://img.shields.io/codeclimate/github/{{ project.github }}.svg?style=flat-square"></a>
+        <a href="https://travis-ci.org/{{ project.github }}"><img src="https://img.shields.io/travis/{{ project.github }}.svg?style=flat-square"></a>
       </p>
       {% endif %}
       <p>
