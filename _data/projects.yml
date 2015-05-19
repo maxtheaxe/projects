@@ -12,7 +12,7 @@
   demo: http://chrisvogt.github.io/JS-Primality-Experiment/
   banner: https://cdn.rawgit.com/chrisvogt/JS-Primality-Experiment/develop/screenshot.gif
 
-- name: WoW Character Viewer
+- name: wowchar.info
   github: chrisvogt/wowchar-info
   demo: http://wowchar.info
   banner: https://cdn.rawgit.com/chrisvogt/wowchar-info/master/webroot/img/banner-bg.jpg
@@ -48,3 +48,8 @@
   github: artinreality/artinreality.github.io
   demo: http://www.artinreality.com/
   banner: https://res.cloudinary.com/chrisvogt/image/upload/v1430078710/projects/artinreality/og-banner.png
+
+- name: sandbox.chrisvogt.me
+  github: chrisvogt/chrisvogt.github.io
+  demo: http://sandbox.chrisvogt.me
+  banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/develop/screenshot.png
