@@ -1,8 +1,8 @@
 # Project Sandbox
 
-[![GitHub release](https://img.shields.io/github/release/chrisvogt/chrisvogt.github.io.svg?style=flat-square)]()
-[![GitHub license](https://img.shields.io/github/license/chrisvogt/chrisvogt.github.io.svg?style=flat-square)]()
-[![Travis](https://img.shields.io/travis/chrisvogt/chrisvogt.github.io.svg?style=flat-square)]()
+[![GitHub release](https://img.shields.io/github/release/chrisvogt/chrisvogt.github.io.svg?style=flat-square)](https://github.com/chrisvogt/chrisvogt.github.io/releases)
+[![GitHub license](https://img.shields.io/github/license/chrisvogt/chrisvogt.github.io.svg?style=flat-square)](https://github.com/chrisvogt/chrisvogt.github.io/blob/develop/LICENSE)
+[![Travis](https://img.shields.io/travis/chrisvogt/chrisvogt.github.io.svg?style=flat-square)](https://travis-ci.org/chrisvogt/chrisvogt.github.io)
 
 A Phoenix web developer's directory of open source projects created or significantly contributed to.
 ### Screenshot
