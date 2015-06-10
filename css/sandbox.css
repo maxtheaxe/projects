@@ -20,7 +20,6 @@ body {
 
 /* Typography */
 h1 {
-  background: rgba(0,0,0,0.2);
   text-align: center;
   color:#fff;
   font: 95px/1 "Bree Serif";
@@ -85,12 +84,12 @@ h4 {
 /* Masthead */
 .page-header {
   margin: 0 auto;
-  background: url(../img/ddotted.png) repeat;
+  background: url('https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/develop/img/bg-delaunay.png') top center #6F5387;
+  min-height: 15%;
 }
 #title {
   margin-bottom: 0;
 }
-
 .navbar-toggle {
   float: left;
   margin-left: 15px;
