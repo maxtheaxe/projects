@@ -1,0 +1,23 @@
+---
+layout: nil
+---
+	{% capture projects %}
+	[
+		{% for project in site.data.projects %}{% if project.name %}
+		    ,{
+				"name": "{{ project.name }}",
+			{% if project.github %}
+				"github": "{{ project.github }}",
+			{% endif %}
+			{% if project.demo %}
+				"demo": "{{ project.demo }}",
+			{% endif %}
+				"banner": "{{ project.banner }}"
+		    }
+		{% endif %}{% endfor %}
+	]
+	{% endcapture %}
+
+{
+	"projects": {{ projects | remove_first: ','}}
+}
