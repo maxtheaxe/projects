@@ -1,4 +1,4 @@
-# Project Sandbox
+# Project Directory
 
 [![GitHub release](https://img.shields.io/github/release/chrisvogt/chrisvogt.github.io.svg?style=flat-square)](https://github.com/chrisvogt/chrisvogt.github.io/releases)
 [![GitHub license](https://img.shields.io/github/license/chrisvogt/chrisvogt.github.io.svg?style=flat-square)](https://github.com/chrisvogt/chrisvogt.github.io/blob/develop/LICENSE)
@@ -6,7 +6,7 @@
 
 A Phoenix web developer's directory of open source projects created or significantly contributed to.
 ### Screenshot
-[![Chris Vogt's Sandbox](screenshot.png)](http://sandbox.chrisvogt.me)
+[![Project Directory](screenshot.png)](http://sandbox.chrisvogt.me)
 
 ### Build Your Own
 
