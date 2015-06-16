@@ -7,12 +7,11 @@
   demo: http://www.gamertagdb.com
   banner: https://res.cloudinary.com/chrisvogt/image/upload/v1422103155/gamertagdb/email/GTMainPicture.jpg
 
-- name: Jekyll-powered project directory
-  github: chrisvogt/chrisvogt.github.io
-  demo: http://sandbox.chrisvogt.me
-  banner: https://cdn.rawgit.com/chrisvogt/sandbox/develop/screenshot.png
+- name: Jekyll template - projects directory
+  github: chrisvogt/projects
+  banner: https://cdn.rawgit.com/chrisvogt/projects/develop/screenshot.png
 
-- name: Jekyll-powered developer stats dashbaord
+- name: Jekyll template - developer stats dashbaord
   github: chrisvogt/stats
   demo: http://stats.chrisvogt.me
   banner: https://cdn.rawgit.com/chrisvogt/stats/develop/webroot/img/screenshot.png
