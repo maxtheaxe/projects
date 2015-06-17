@@ -11,7 +11,7 @@
       {% endif %}
       <p>
         <a href="{% if project.demo %}{{ project.demo }}{% endif %}" class="btn btn-default" {% if project.demo == nil %}disabled{% endif %}>
-          <i class="sb-icon icon-globe">&#xe801;</i>
+          <i class="sb-icon sb-globe">&#xe801;</i>
           Demo
         </a>
         <a href="https://github.com/{{ project.github }}" class="btn btn-default" {% if project.github == nil %}disabled{% endif %}>
