@@ -1,23 +1,16 @@
 ---
-layout: nil
+layout: none
 ---
-	{% capture projects %}
-	[
-		{% for project in site.data.projects %}{% if project.name %}
-		    ,{
-				"name": "{{ project.name }}",
-			{% if project.github %}
-				"github": "{{ project.github }}",
-			{% endif %}
-			{% if project.demo %}
-				"demo": "{{ project.demo }}",
-			{% endif %}
-				"banner": "{{ project.banner }}"
-		    }
-		{% endif %}{% endfor %}
-	]
-	{% endcapture %}
-
 {
-	"projects": {{ projects | remove_first: ','}}
+	"projects": [
+		{% for project in site.data.projects %}
+		{
+			"id": {{forloop.index}},
+			"name": {{project.name | jsonify}},
+			"github": {% if project.github %}{{project.github | jsonify}}{% else %}null{% endif %},
+			"demo": {%if project.demo %}{{project.demo | jsonify}}{% else %}null{% endif %},
+			"banner": {{project.banner | jsonify}}
+		}{% if forloop.rindex0 > 0 %},{% endif %}
+		{% endfor %}
+	]
 }
