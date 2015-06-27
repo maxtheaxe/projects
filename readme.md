@@ -1,8 +1,8 @@
 # Project Directory
 
-[![GitHub release](https://img.shields.io/github/release/chrisvogt/chrisvogt.github.io.svg?style=flat-square)](https://github.com/chrisvogt/chrisvogt.github.io/releases)
-[![GitHub license](https://img.shields.io/github/license/chrisvogt/chrisvogt.github.io.svg?style=flat-square)](https://github.com/chrisvogt/chrisvogt.github.io/blob/develop/LICENSE)
-[![Travis](https://img.shields.io/travis/chrisvogt/chrisvogt.github.io.svg?style=flat-square)](https://travis-ci.org/chrisvogt/chrisvogt.github.io)
+[![GitHub release](https://img.shields.io/github/release/chrisvogt/projects.svg?style=flat-square)](https://github.com/chrisvogt/chrisvogt.github.io/releases)
+[![GitHub license](https://img.shields.io/github/license/chrisvogt/projects.svg?style=flat-square)](https://github.com/chrisvogt/chrisvogt.github.io/blob/develop/LICENSE)
+[![Travis](https://img.shields.io/travis/chrisvogt/projects.svg?style=flat-square)](https://travis-ci.org/chrisvogt/chrisvogt.github.io)
 
 A Phoenix web developer's directory of open source projects created or significantly contributed to.
 
@@ -20,3 +20,7 @@ MIT
 
 ### Screenshot
 [![Project Directory](screenshot.jpg)](http://sandbox.chrisvogt.me)
+
+___
+
+<img src="https://cdn.rawgit.com/jekyll/brand/master/jekyll-logo-light-transparent.png" alt="Jekyll logo" height="50px" />
