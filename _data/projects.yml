@@ -5,7 +5,7 @@
 
 - name: Jekyll template - projects directory
   github: chrisvogt/projects
-  banner: https://cdn.rawgit.com/chrisvogt/projects/develop/screenshot.png
+  banner: https://cdn.rawgit.com/chrisvogt/projects/develop/screenshot.jpg
 
 - name: Jekyll template - developer stats dashbaord
   github: chrisvogt/stats

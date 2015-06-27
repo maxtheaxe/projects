@@ -5,8 +5,6 @@
 [![Travis](https://img.shields.io/travis/chrisvogt/chrisvogt.github.io.svg?style=flat-square)](https://travis-ci.org/chrisvogt/chrisvogt.github.io)
 
 A Phoenix web developer's directory of open source projects created or significantly contributed to.
-### Screenshot
-[![Project Directory](screenshot.png)](http://sandbox.chrisvogt.me)
 
 ### Build Your Own
 
@@ -19,3 +17,6 @@ Use bower when in the `develop` branch to download and manage components. To pub
 ### License
 
 MIT
+
+### Screenshot
+[![Project Directory](screenshot.jpg)](http://sandbox.chrisvogt.me)
