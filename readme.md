@@ -23,4 +23,5 @@ MIT
 
 ___
 
-<img src="https://cdn.rawgit.com/jekyll/brand/master/jekyll-logo-light-transparent.png" alt="Jekyll logo" height="50px" />
+<img src="https://cdn.rawgit.com/jekyll/brand/master/jekyll-logo-light-transparent.png" alt="Jekyll logo" height="70" align="right" /> <img src="http://bower.io/img/bower-logo.svg" alt="Made with Bower" height="70" align="right">
+
