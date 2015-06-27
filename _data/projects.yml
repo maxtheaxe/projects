@@ -1,11 +1,7 @@
-- name: CakePHP WoW character-sharing app
-  github: chrisvogt/wowchar-info
-  demo: http://wowchar.info
-  banner: https://cdn.rawgit.com/chrisvogt/wowchar-info/master/webroot/img/banner-bg.jpg
-
-- name: GamertagDB, social gamertag sharing app
-  demo: http://www.gamertagdb.com
-  banner: https://res.cloudinary.com/chrisvogt/image/upload/v1422103155/gamertagdb/email/GTMainPicture.jpg
+- name: CHRISVOGT.me website
+  github: chrisvogt/chrisvogt.me
+  demo: http://www.chrisvogt.me
+  banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.me/develop/screenshot.jpg
 
 - name: Jekyll template - projects directory
   github: chrisvogt/projects
@@ -16,30 +12,31 @@
   demo: http://stats.chrisvogt.me
   banner: https://cdn.rawgit.com/chrisvogt/stats/develop/webroot/img/screenshot.png
 
-- name: WakaTime CakePHP plugin
-  github: chrisvogt/cakephp-wakatime
-  banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/develop/img/bg-delaunay.png
+- name: CakePHP WoW character-sharing app
+  github: chrisvogt/wowchar-info
+  demo: http://wowchar.info
+  banner: https://cdn.rawgit.com/chrisvogt/wowchar-info/master/webroot/img/banner-bg.jpg
 
-- name: Friends Of Cake Jekyll site
-  github: chrisvogt/FriendsOfCake.github.io
-  demo: http://www.friendsofcake.com
-  banner: https://cdn.rawgit.com/FriendsOfCake/FriendsOfCake.github.io/master/img/jumbotron.jpg
+- name: "GamertagDB, social gamertag sharing app"
+  demo: http://www.gamertagdb.com
+  banner: https://res.cloudinary.com/chrisvogt/image/upload/v1422103155/gamertagdb/email/GTMainPicture.jpg
 
 - name: JavaScript prime number experiment
   github: chrisvogt/JS-Primality-Experiment
   demo: http://chrisvogt.github.io/JS-Primality-Experiment/
   banner: https://cdn.rawgit.com/chrisvogt/JS-Primality-Experiment/develop/screenshot.gif
 
-- name: Marble Interface, free Tumblr theme
-  github: chrisvogt/marbleinterface-tumblr
-  demo: http://marbleinterface.tumblr.com
-  banner: https://res.cloudinary.com/chrisvogt/image/upload/v1430085209/projects/marbleinterface-banner.jpg
+- name: Friends Of Cake Jekyll site
+  github: chrisvogt/FriendsOfCake.github.io
+  demo: http://www.friendsofcake.com
+  banner: https://cdn.rawgit.com/FriendsOfCake/FriendsOfCake.github.io/master/img/jumbotron.jpg
 
-- name: Wordpress.org Support Enhancement Kit
-  github: chrisvogt/wordpress-support-enhancement-kit
-  banner: https://cdn.rawgit.com/chrisvogt/wordpress-support-enhancement-kit/master/assets/banner.png
+- name: "Art In Reality, LLC website"
+  github: artinreality/artinreality.github.io
+  demo: http://www.artinreality.com
+  banner: https://cdn.rawgit.com/artinreality/artinreality.github.io/develop/img/og-banner.png
 
-- name: WoW character info, a Polymer component
+- name: "WoW character info, a Polymer component"
   github: chrisvogt/wow-profile-card
   demo: http://chrisvogt.github.io/wow-profile-card/bower_components/wow-profile-card/demo.html
   banner: https://res.cloudinary.com/chrisvogt/image/upload/v1420461939/wow-profile-card_p6i5ys.jpg
@@ -49,15 +46,23 @@
   demo: http://chrisvogt.github.io/github-repo-card/components/github-repo-card/demo.html
   banner: http://res.cloudinary.com/chrisvogt/image/upload/v1420351341/screenshot-github-repo-card_tqlf5w.png
 
-- name: PHPMgac (menu grab & convert) library
-  github: chrisvogt/php-menu-grab-and-convert
+- name: Wordpress.org Support Enhancement Kit
+  github: chrisvogt/wordpress-support-enhancement-kit
+  banner: https://cdn.rawgit.com/chrisvogt/wordpress-support-enhancement-kit/master/assets/banner.png
+
+- name: "Marble Interface, free Tumblr theme"
+  github: chrisvogt/marbleinterface-tumblr
+  demo: http://marbleinterface.tumblr.com
+  banner: https://res.cloudinary.com/chrisvogt/image/upload/v1430085209/projects/marbleinterface-banner.jpg
+
+- name: WakaTime CakePHP plugin
+  github: chrisvogt/cakephp-wakatime
   banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/develop/img/bg-delaunay.png
 
-- name: CakePHP Wyzant API consumer library
+- name: "CakePHP Wyzant API consumer library"
   github: chrisvogt/WyzantSearch
   banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/develop/img/bg-delaunay.png
 
-- name: Art In Reality, LLC
-  github: artinreality/artinreality.github.io
-  demo: http://www.artinreality.com
-  banner: https://cdn.rawgit.com/artinreality/artinreality.github.io/develop/img/og-banner.png
+- name: "PHP Menu Scraping library"
+  github: chrisvogt/php-menu-grab-and-convert
+  banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/develop/img/bg-delaunay.png

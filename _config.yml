@@ -1,7 +1,8 @@
 title: "Projects"
 author: "Chris Vogt"
+twitter: "C1V0"
 description: "Portfolio of personal projects made with PHP, CakePHP, Jekyll, Wordpress, and more."
-banner: "https://cdn.rawgit.com/chrisvogt/projects/develop/img/og-banner.jpg"
+banner: "https://cdn.rawgit.com/chrisvogt/projects/develop/img/og-banner.png"
 analytics: "UA-33558417-8"
 exclude:
   - README.md
