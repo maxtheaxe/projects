@@ -4,7 +4,7 @@
 [![GitHub license](https://img.shields.io/github/license/chrisvogt/projects.svg?style=flat-square)](https://github.com/chrisvogt/chrisvogt.github.io/blob/develop/LICENSE)
 [![Travis](https://img.shields.io/travis/chrisvogt/projects.svg?style=flat-square)](https://travis-ci.org/chrisvogt/chrisvogt.github.io)
 
-A Phoenix web developer's directory of open source projects created or significantly contributed to.
+<img src="https://res.cloudinary.com/chrisvogt/image/upload/v1435401303/chrisvogt-me/thumb/projects.png" alt="Project element preview" height="300" width="300" align="right">A web developer's personal directory of open source projects.
 
 ### Build Your Own
 
