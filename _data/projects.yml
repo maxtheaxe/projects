@@ -48,6 +48,7 @@
 
 - name: Wordpress.org Support Enhancement Kit
   github: chrisvogt/wordpress-support-enhancement-kit
+  demo: https://chrome.google.com/webstore/detail/wordpressorg-support-enha/mlodkondjlhhbhcokbpgiafemehdcbel
   banner: https://cdn.rawgit.com/chrisvogt/wordpress-support-enhancement-kit/master/assets/banner.png
 
 - name: "Marble Interface, free Tumblr theme"
