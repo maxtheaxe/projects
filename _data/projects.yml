@@ -23,12 +23,12 @@
 
 - name: JavaScript prime number experiment
   github: chrisvogt/JS-Primality-Experiment
-  demo: https://chrisvogt.github.io/JS-Primality-Experiment/
+  demo: http://chrisvogt.github.io/primality/
   banner: https://cdn.rawgit.com/chrisvogt/JS-Primality-Experiment/develop/screenshot.gif
 
 - name: UI.Layout interface experiment
   github: artinreality/UI.Layout-Test-Layout
-  demo: http://www.artinreality.com/UI.Layout-Test-Layout/#
+  demo: http://www.artinreality.com/pane-layout/
   banner: https://res.cloudinary.com/chrisvogt/image/upload/c_scale,h_352/v1435650144/ui-layout-example_ecky1r.jpg
 
 - name: Friends Of Cake Jekyll site
