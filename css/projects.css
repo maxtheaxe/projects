@@ -168,9 +168,12 @@ h4 {
  */
 footer {
   height: 124px;
-  background: url(../img/ddotted.png) repeat;
+  background: url(https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/develop/img/bg-delaunay.png) no-repeat center center #544c7a;
   padding: 8px 24px;
-  color: #aeaeae;
+  color: #cecece;
+}
+footer a:hover {
+  color: #efefef;
 }
 
 
