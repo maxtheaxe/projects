@@ -110,6 +110,21 @@ h4 {
 }
 
 /**
+ * Off Canvas
+ */
+.social-links {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  bottom: 24px;
+  width: 100%;
+  text-align: center;
+}
+.social-links li {
+  display: inline-block;
+}
+
+/**
  * Cards
  */
 .src-image {
