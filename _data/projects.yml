@@ -2,29 +2,35 @@
   github: chrisvogt/chrisvogt.me
   demo: http://www.chrisvogt.me
   banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.me/develop/screenshot.jpg
+  tech: ['Ruby', 'Jekyll', 'jQuery']
 
 - name: Jekyll template - projects directory
   github: chrisvogt/projects
   banner: https://cdn.rawgit.com/chrisvogt/projects/develop/screenshot.jpg
+  tech: ['Ruby', 'Jekyll']
 
 - name: Jekyll template - developer stats dashbaord
   github: chrisvogt/stats
   demo: http://stats.chrisvogt.me
   banner: https://cdn.rawgit.com/chrisvogt/stats/develop/webroot/img/screenshot.png
+  tech: ['PHP', 'CakePHP']
 
 - name: CakePHP WoW character-sharing app
   github: chrisvogt/wowchar-info
   demo: http://wowchar.info
   banner: https://cdn.rawgit.com/chrisvogt/wowchar-info/master/webroot/img/banner-bg.jpg
+  tech: ['PHP', 'CakePHP']
 
 - name: "GamertagDB, social gamertag sharing app"
   demo: http://www.gamertagdb.com
   banner: https://res.cloudinary.com/chrisvogt/image/upload/v1422103155/gamertagdb/email/GTMainPicture.jpg
+  tech: ['PHP', 'CakePHP']
 
 - name: JavaScript prime number experiment
   github: chrisvogt/JS-Primality-Experiment
   demo: http://chrisvogt.github.io/primality/
   banner: https://cdn.rawgit.com/chrisvogt/JS-Primality-Experiment/develop/screenshot.gif
+  tech: ['jQuery']
 
 - name: UI.Layout interface experiment
   github: artinreality/UI.Layout-Test-Layout
@@ -35,6 +41,7 @@
   github: chrisvogt/FriendsOfCake.github.io
   demo: http://www.friendsofcake.com
   banner: https://cdn.rawgit.com/FriendsOfCake/FriendsOfCake.github.io/master/img/jumbotron.jpg
+  tech: ['Ruby', 'Jekyll']
 
 - name: "Art In Reality, LLC website"
   github: artinreality/artinreality.github.io
@@ -64,11 +71,14 @@
 - name: WakaTime CakePHP plugin
   github: chrisvogt/cakephp-wakatime
   banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/develop/img/bg-delaunay.png
+  tech: ['PHP', 'CakePHP']
 
 - name: "CakePHP Wyzant API consumer library"
   github: chrisvogt/WyzantSearch
   banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/develop/img/bg-delaunay.png
+  tech: ['PHP', 'CakePHP']
 
 - name: "PHP Menu Scraping library"
   github: chrisvogt/php-menu-grab-and-convert
   banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/develop/img/bg-delaunay.png
+  tech: ['PHP']
