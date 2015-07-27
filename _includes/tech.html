@@ -1,0 +1,17 @@
+<ul class="tech">
+  {% if project.tech contains 'PHP' %}
+    <li class="php">PHP</li>
+  {% endif %}
+  {% if project.tech contains 'Ruby' %}
+    <li class="ruby">Ruby</li>
+  {% endif %}
+  {% if project.tech contains 'CakePHP' %}
+    <li class="cakephp">CakePHP</li>
+  {% endif %}
+  {% if project.tech contains 'Jekyll' %}
+    <li class="jekyll">Jekyll</li>
+  {% endif %}
+  {% if project.tech contains 'jQuery' %}
+    <li class="jquery">jQuery</li>
+  {% endif %}
+</ul>

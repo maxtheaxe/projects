@@ -149,7 +149,7 @@ h4 {
   margin-bottom: 18px;
 }
 .features .card {
-  min-height: 180px;
+  min-height: 196px;
 }
 .social {
   text-align: center;
@@ -188,6 +188,37 @@ h4 {
   border-bottom: 1px #cecece solid;
   z-index: 1;
   background: url(http://subtlepatterns.com/patterns/paisley.png) #fefefe;
+}
+ul.tech {
+  margin: 4px 0;
+  padding: 0;
+  width: 100%;
+}
+ul.tech li {
+  list-style: none;
+  display: inline-block;
+  text-indent: -9999px;
+  height: 32px;
+  background: url('../img/sprite-tech.png') no-repeat;
+}
+ul.tech .php {
+  width: 44px;
+}
+ul.tech .ruby {
+  width: 32px;
+  background-position: -44px 0;
+}
+ul.tech .cakephp {
+  width: 32px;
+  background-position: -76px 0;
+}
+ul.tech .jekyll {
+  width: 66px;
+  background-position: -108px 0;
+}
+ul.tech .jquery {
+  width: 82px;
+  background-position: -174px 0;
 }
 
 /**

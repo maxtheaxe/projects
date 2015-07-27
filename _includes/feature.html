@@ -3,6 +3,9 @@
     <canvas class="header-bg" style="background: url({{ project.banner }}) center;background-size:cover;" width="250" height="70"></canvas>
     <div class="content">
       <h4>{{ project.name }}</h4>
+      {% if project.tech %}
+        {% include tech.html %}
+      {% endif %}
       <p>
         <a href="{% if project.demo %}{{ project.demo }}{% endif %}" class="btn btn-default" {% if project.demo == nil %}disabled{% endif %}>
           <i class="sb-icon sb-globe">&#xe801;</i>
