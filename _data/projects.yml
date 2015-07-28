@@ -4,16 +4,16 @@
   banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.me/develop/screenshot.jpg
   tech: ['Ruby', 'Jekyll', 'jQuery']
 
-- name: Jekyll template - projects directory
+- name: Developer project portfolio
   github: chrisvogt/projects
   banner: https://cdn.rawgit.com/chrisvogt/projects/develop/screenshot.jpg
   tech: ['Ruby', 'Jekyll']
 
-- name: Jekyll template - developer stats dashbaord
+- name: Developer stats dashbaord
   github: chrisvogt/stats
   demo: http://stats.chrisvogt.me
   banner: https://cdn.rawgit.com/chrisvogt/stats/develop/webroot/img/screenshot.png
-  tech: ['PHP', 'CakePHP']
+  tech: ['PHP', 'CakePHP', 'jQuery']
 
 - name: CakePHP WoW character-sharing app
   github: chrisvogt/wowchar-info
@@ -30,12 +30,13 @@
   github: chrisvogt/JS-Primality-Experiment
   demo: http://chrisvogt.github.io/primality/
   banner: https://cdn.rawgit.com/chrisvogt/JS-Primality-Experiment/develop/screenshot.gif
-  tech: ['jQuery']
+  tech: ['jQuery', 'HTML5']
 
 - name: UI.Layout interface experiment
   github: artinreality/UI.Layout-Test-Layout
   demo: http://www.artinreality.com/pane-layout/
   banner: https://res.cloudinary.com/chrisvogt/image/upload/c_scale,h_352/v1435650144/ui-layout-example_ecky1r.jpg
+  tech: ['jQuery', 'HTML5']
 
 - name: Friends Of Cake Jekyll site
   github: chrisvogt/FriendsOfCake.github.io
@@ -47,26 +48,31 @@
   github: artinreality/artinreality.github.io
   demo: http://www.artinreality.com
   banner: https://cdn.rawgit.com/artinreality/artinreality.github.io/develop/img/og-banner.png
+  tech: ['HTML5']
 
 - name: "WoW character info, a Polymer component"
   github: chrisvogt/wow-profile-card
   demo: http://chrisvogt.github.io/wow-profile-card/bower_components/wow-profile-card/demo.html
   banner: https://res.cloudinary.com/chrisvogt/image/upload/v1420461939/wow-profile-card_p6i5ys.jpg
+  tech: ['Polymer']
 
 - name: GitHub repo viewer Polymer component
   github: chrisvogt/github-repo-card
   demo: http://chrisvogt.github.io/github-repo-card/components/github-repo-card/demo.html
   banner: https://res.cloudinary.com/chrisvogt/image/upload/v1420351341/screenshot-github-repo-card_tqlf5w.png
+  tech: ['Polymer']
 
 - name: Wordpress.org Support Enhancement Kit
   github: chrisvogt/wordpress-support-enhancement-kit
   demo: https://chrome.google.com/webstore/detail/wordpressorg-support-enha/mlodkondjlhhbhcokbpgiafemehdcbel
   banner: https://cdn.rawgit.com/chrisvogt/wordpress-support-enhancement-kit/master/assets/banner.png
+  tech: ['Chrome']
 
 - name: "Marble Interface, free Tumblr theme"
   github: chrisvogt/marbleinterface-tumblr
   demo: http://marbleinterface.tumblr.com
   banner: https://res.cloudinary.com/chrisvogt/image/upload/v1430085209/projects/marbleinterface-banner.jpg
+  tech: ['HTML5']
 
 - name: WakaTime CakePHP plugin
   github: chrisvogt/cakephp-wakatime

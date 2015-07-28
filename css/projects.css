@@ -220,6 +220,18 @@ ul.tech .jquery {
   width: 82px;
   background-position: -174px 0;
 }
+ul.tech .chrome {
+  width: 32px;
+  background-position: -256px 0;
+}
+ul.tech .html5 {
+  width: 24px;
+  background-position: -288px 0;
+}
+ul.tech .polymer {
+  width: 32px;
+  background-position: -312px 0;
+}
 
 /**
  * Footer
