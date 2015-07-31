@@ -1,0 +1,35 @@
+<ul class="social-links">
+{% for social in site.data.social %}
+  {% case social.network %}
+  {% when 'github' %}
+    {% assign class = 'github' %}
+    {% assign base = 'https://github.com/' %}
+    {% assign icon = 'fa-github-square' %}
+  {% when 'twitter' %}
+    {% assign class = 'twitter' %}
+    {% assign base = 'https://twitter.com/' %}
+    {% assign icon = 'fa-twitter-square' %}
+  {% when 'google+' %}
+    {% assign class = 'gplus' %}
+    {% assign base = 'https://plus.google.com/u/0/+' %}
+    {% assign icon = 'fa-google-plus-square' %}
+  {% when 'behance' %}
+    {% assign class = 'behance' %}
+    {% assign base = 'https://behance.net/' %}
+    {% assign icon = 'fa-behance-square' %}
+  {% when 'instagram' %}
+    {% assign class = 'instagram' %}
+    {% assign base = 'https://instagram.com/' %}
+    {% assign icon = 'fa-instagram' %}
+  {% when 'linkedin' %}
+    {% assign class = 'linkedin' %}
+    {% assign base = 'https://linkedin.com/in/' %}
+    {% assign icon = 'fa-linkedin-square' %}
+  {% endcase %}
+  <li>
+    <a class="{{ class }}" href="{{ base }}{{ social.username }}" title="{{ site.author }} on {{ social.network }}">
+      <i class="fa {{ icon }} hvr-shrink"></i>
+    </a>
+  </li>
+{% endfor %}
+</ul>
