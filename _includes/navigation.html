@@ -1,4 +1,5 @@
-        <ul class="nav navmenu-nav">
-          {% for link in site.data.navigation %}
-          <li{% if link.text == 'Projects' %} class="active"{% endif %}><a href="{% if link.text == 'Projects' %}#{% else %}{{ link.href }}{% endif %}" title="{{ link.title }}"><i class="fa {{ link.icon }}"></i> {{ link.text }}</a></li>{% endfor %}
-        </ul>
+<ul class="nav navmenu-nav">
+  {% for link in site.data.navigation %}
+  <li{% if link.text == 'Projects' %} class="active"{% endif %}><a href="{% if link.text == 'Projects' %}#{% else %}{{ link.href }}{% endif %}" title="{{ link.title }}"><i class="fa {{ link.icon }}"></i> {{ link.text }}</a></li>
+  {% endfor %}
+</ul>
