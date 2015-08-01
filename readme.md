@@ -28,7 +28,7 @@ Please follow the [Feature Branch Workflow](https://www.atlassian.com/git/tutori
 MIT
 
 ### Screenshot
-[![Project Directory](screenshot.jpg)](http://sandbox.chrisvogt.me)
+[![Project Directory](screenshot.jpg)](http://projects.chrisvogt.me)
 
 ___
 
