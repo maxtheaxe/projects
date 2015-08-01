@@ -15,13 +15,13 @@
   banner: https://cdn.rawgit.com/chrisvogt/stats/develop/webroot/img/screenshot.png
   tech: ['PHP', 'CakePHP', 'jQuery']
 
-- name: CakePHP WoW character-sharing app
+- name: WOWCHAR.info character viewer
   github: chrisvogt/wowchar-info
   demo: http://wowchar.info
-  banner: https://cdn.rawgit.com/chrisvogt/wowchar-info/master/webroot/img/banner-bg.jpg
+  banner: https://res.cloudinary.com/chrisvogt/image/upload/v1436837482/projects/wowchar/wow-banner.jpg
   tech: ['PHP', 'CakePHP']
 
-- name: "GamertagDB, social gamertag sharing app"
+- name: "GamertagDB, gamertag sharing app"
   demo: http://www.gamertagdb.com
   banner: https://res.cloudinary.com/chrisvogt/image/upload/v1422103155/gamertagdb/email/GTMainPicture.jpg
   tech: ['PHP', 'CakePHP']
