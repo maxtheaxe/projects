@@ -1,7 +1,7 @@
   <div class="page-header">
     <div class="masthead">
       <div class="container-fluid">
-        <h1 id="title">{{ site.title }}</h1>
+        <h1 id="title">{% if site.title == "Projects" %}<i class="fa fa-floppy-o"></i> {% endif %}{{ site.title }}</h1>
       </div>
     </div>
   </div>

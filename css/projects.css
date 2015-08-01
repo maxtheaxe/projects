@@ -46,13 +46,9 @@ a:hover {
 h1 {
   text-align: center;
   color:#fff;
-  font: 95px/1 "Droid Sans";
+  font: 10em/1 "Droid Sans";
   text-transform: uppercase;
   display: inline-block;
-  text-shadow:#0080ff -1px 1px 0,
-  #253e45 -2px 2px 0,
-  #d45848 -3px 3px 0,
-  #d45848 -4px 4px 0;
   width: 100%;
 }
 h1, h2, h3, h4, h5 {
