@@ -6,8 +6,9 @@
     </div>
   </div>
   <div class="social">
-    <div class="container">
-      <a href="https://twitter.com/c1v0" title="@C1V0 on Twitter" class="btn btn-default"><i class="sb-icon icon-twitter-squared">&#xe804;</i> @C1V0</a>
-      <a href="https://github.com/chrisvogt" title="@chrisvogt on GitHub" class="btn btn-default"><i class="sb-icon icon-github-circled-alt2">&#xe803;</i> @chrisvogt</a>
+    <div class="container text-right">
+      {% if site.data.social %}
+       {% include social.html %}
+      {% endif %}
     </div>
   </div>
