@@ -129,13 +129,16 @@ h1, h2, h3, h4, h5 {
  * Off Canvas
  */
 .navmenu-fixed-left .social-links {
-  margin: 0;
-  padding: 0;
   position: absolute;
   bottom: 24px;
   width: 100%;
 }
-.navmenu-fixed-left .social-links li {
+.social-links {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.social-links li {
   display: inline-block;
 }
 
@@ -156,9 +159,9 @@ h1, h2, h3, h4, h5 {
 }
 .social {
   text-align: center;
-  height: 48px;
+  height: 38px;
 
-  padding: 8px 0;
+  padding: 0;
   margin-bottom: 24px;
   border-bottom: 1px solid #cecece;
   border-top: 1px solid white;
@@ -174,12 +177,12 @@ h1, h2, h3, h4, h5 {
 }
 .social .social-links {
   font-size: 1.4em;
-  line-height: 42px;
+  line-height: 38px;
 }
 .card {
   overflow: hidden;
   position: relative;
-  border: 3px solid #282828;
+  border: 1px solid #CECECE;
   text-align: center;
   padding: 0;
   background-color: #fefefe;
@@ -191,7 +194,7 @@ h1, h2, h3, h4, h5 {
   left: 0;
   width: 100%;
   height: 70px;
-  border-bottom: 1px #cecece solid;
+  border-bottom: 3px solid #5D4D7B;
   z-index: 1;
   background: url(http://subtlepatterns.com/patterns/paisley.png) #fefefe;
 }
