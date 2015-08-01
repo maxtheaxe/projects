@@ -1,0 +1,14 @@
+- title: CHRISVOGT.me
+  text: Blog
+  icon: fa-home
+  href: https://www.chrisvogt.me
+
+- title: Open source projects by Chris Vogt
+  text: Projects
+  icon: fa-floppy-o
+  href: http://projects.chrisvogt.me
+
+- title: Open source contributions by Chris Vogt
+  text: Stats
+  icon: fa-history
+  href: http://stats.chrisvogt.me
