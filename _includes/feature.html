@@ -8,12 +8,10 @@
       {% endif %}
       <p>
         <a href="{% if project.demo %}{{ project.demo }}{% endif %}" class="btn btn-default" {% if project.demo == nil %}disabled{% endif %}>
-          <i class="sb-icon sb-globe">&#xe801;</i>
-          Demo
+          <span class="octicon octicon-globe"></span> Demo
         </a>
         <a href="https://github.com/{{ project.github }}" class="btn btn-default" {% if project.github == nil %}disabled{% endif %}>
-          <i class="sb-icon icon-github-circled-alt2">&#xe803;</i>
-          Source
+          <span class="octicon octicon-code"></span> Source
         </a>
       </p>
     </div>
