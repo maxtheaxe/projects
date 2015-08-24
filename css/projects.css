@@ -266,6 +266,11 @@ footer a:hover {
     display: block; /* force showing the toggle */
   }
 }
+@media (max-width: 992px) {
+  h1 {
+    font: 5em/1 "Droid Sans";
+  }
+}
 @media (min-width: 992px) {
   body {
     padding: 0;
