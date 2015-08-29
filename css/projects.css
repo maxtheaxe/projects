@@ -243,6 +243,10 @@ ul.tech .polymer {
   width: 32px;
   background-position: -312px 0;
 }
+ul.tech .mongodb {
+  width: 20px;
+  background-position: -344px 0;
+}
 
 /**
  * Footer

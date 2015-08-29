@@ -2,7 +2,7 @@
   github: chrisvogt/ghrepo-info
   demo: http://ghrepo.info
   banner: https://cdn.rawgit.com/chrisvogt/ghrepo-info/develop/source/webroot/img/screenshot.home.jpg
-  tech: ['PHP', 'CakePHP', 'jQuery']
+  tech: ['PHP', 'CakePHP', 'jQuery', 'MongoDB']
 
 - name: CHRISVOGT.me website
   github: chrisvogt/chrisvogt.me
