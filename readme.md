@@ -2,9 +2,10 @@
 
 <img src="https://res.cloudinary.com/chrisvogt/image/upload/v1435401303/chrisvogt-me/thumb/projects.png" alt="Project element preview" height="300" width="300" align="right">
 
-[![GitHub release](https://img.shields.io/github/release/chrisvogt/projects.svg?style=flat-square)](https://github.com/chrisvogt/chrisvogt.github.io/releases)
-[![GitHub license](https://img.shields.io/github/license/chrisvogt/projects.svg?style=flat-square)](https://github.com/chrisvogt/chrisvogt.github.io/blob/develop/LICENSE)
-[![Travis](https://img.shields.io/travis/chrisvogt/projects.svg?style=flat-square)](https://travis-ci.org/chrisvogt/chrisvogt.github.io)
+[![Build Status](http://img.shields.io/travis/chrisvogt/projects.svg?style=flat-square)](https://travis-ci.org/chrisvogt/projects)
+[![Dependency Status](http://img.shields.io/gemnasium/chrisvogt/projects.svg?style=flat-square)](https://gemnasium.com/chrisvogt/projects)
+[![Code Climate](http://img.shields.io/codeclimate/github/chrisvogt/projects.svg?style=flat-square)](https://codeclimate.com/github/chrisvogt/projects)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://chrisvogt.mit-license.org)
 
 A web developer's portfolio of projects; the source code behind [projects.chrisvogt.me](http://projects.chrisvogt.me). Use to build your own project directory and host free on [GitHub Pages](https://pages.github.com).
 
