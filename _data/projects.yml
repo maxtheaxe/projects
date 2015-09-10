@@ -1,7 +1,7 @@
 - name: Kildekoden repository viewer
   github: chrisvogt/kildekoden
   demo: http://kildeko.de
-  banner: https://cdn.rawgit.com/chrisvogt/kildekoden/master/source/webroot/img/screenshot.home.jpg
+  banner: https://cdn.rawgit.com/kildekoden/kildekoden/master/source/webroot/img/banner.jpg
   tech: ['PHP', 'CakePHP', 'jQuery', 'MongoDB']
 
 - name: CHRISVOGT.me website
