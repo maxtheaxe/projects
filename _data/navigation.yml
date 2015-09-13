@@ -12,3 +12,8 @@
   text: Stats
   icon: fa-history
   href: http://stats.chrisvogt.me
+
+- title: Chris Vogt's résumé
+  text: Résumé <i class="fa fa-external-link"></i>
+  icon: fa-briefcase
+  href: https://resume.chrisvogt.me

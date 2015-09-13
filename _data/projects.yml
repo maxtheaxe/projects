@@ -7,7 +7,7 @@
 - name: CHRISVOGT.me website
   github: chrisvogt/chrisvogt.me
   demo: http://www.chrisvogt.me
-  banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.me/develop/screenshot.jpg
+  banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.me/master/screenshot.jpg
   tech: ['Ruby', 'Jekyll', 'jQuery']
 
 - name: Developer project portfolio
@@ -82,15 +82,15 @@
 
 - name: WakaTime CakePHP plugin
   github: chrisvogt/cakephp-wakatime
-  banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/develop/img/bg-delaunay.png
+  banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/master/img/bg-delaunay.png
   tech: ['PHP', 'CakePHP']
 
 - name: "CakePHP Wyzant API consumer library"
   github: chrisvogt/WyzantSearch
-  banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/develop/img/bg-delaunay.png
+  banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/master/img/bg-delaunay.png
   tech: ['PHP', 'CakePHP']
 
 - name: "PHP Menu Scraping library"
   github: chrisvogt/php-menu-grab-and-convert
-  banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/develop/img/bg-delaunay.png
+  banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/master/img/bg-delaunay.png
   tech: ['PHP']

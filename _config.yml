@@ -3,7 +3,7 @@ author: "Chris Vogt"
 twitter: "C1V0"
 description: "Portfolio of personal projects made with PHP, CakePHP, Jekyll, Wordpress, and more."
 banner: "https://cdn.rawgit.com/chrisvogt/projects/develop/img/og-banner.png"
-logo: https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/develop/img/favicon-152.png
+logo: https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/master/img/favicon-152.png
 analytics: "UA-33558417-8"
 exclude:
   - README.md

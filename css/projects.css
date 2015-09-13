@@ -30,7 +30,7 @@ body {
  * Typography
  */
 body {
-  font-family: 'Droid Sans', sans-serif;
+  font-family: 'Merriweather', sans-serif;
 }
 a {
   color: #cecece;
@@ -46,13 +46,21 @@ a:hover {
 h1 {
   text-align: center;
   color:#fff;
-  font: 10em/1 "Droid Sans";
+  font: 10em/1 "Open Sans", sans-serif;
+  font-weight: 700;
   text-transform: uppercase;
   display: inline-block;
   width: 100%;
 }
-h1, h2, h3, h4, h5 {
-  font-family: 'Droid Sans', sans-serif;
+h2 {
+  font-weight: 700;
+  margin-bottom: 14px;
+}
+h3, h4, h5 {
+  font-weight: 300;
+}
+h2, h3, h4, h5 {
+  font-family: 'Open Sans', sans-serif;
 }
 @font-face {
   font-family: 'fontello';
@@ -99,13 +107,23 @@ h1, h2, h3, h4, h5 {
   /* Uncomment for 3D effect */
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
+footer .fa,
+footer .octicon {
+  color: #fff;
+}
+footer .octicon-heart {
+  color: red;
+}
+footer .fa-twitter {
+  color: #55acee;
+}
 
 /**
  * Masthead
  */
 .page-header {
   margin: 0 auto;
-  background: url('https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/develop/img/bg-delaunay.png') top center #6F5387;
+  background: url('https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/master/img/bg-delaunay.png') top center #6F5387;
   background-size: cover;
   min-height: 15%;
 }
@@ -118,6 +136,10 @@ h1, h2, h3, h4, h5 {
   font-size: 1.4em;
   text-align: right;
 }
+#viewport {
+  background: url('../img/header-accent.png') repeat-x top;
+  padding-top: 18px;
+}
 
 /**
  * Off Canvas
@@ -127,13 +149,31 @@ h1, h2, h3, h4, h5 {
   bottom: 24px;
   width: 100%;
 }
+.navmenu-nav {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.250em;
+  font-weight: 300;
+}
+.navmenu-nav .fa-external-link {
+  font-size: .74em;
+}
 .social-links {
   margin: 0;
   padding: 0;
-  list-style: none;
+  position: absolute;
+  bottom: 24px;
+  width: 100%;
+  text-align: center;
+  font-size: 1.250em;
 }
 .social-links li {
   display: inline-block;
+}
+.social-links a {
+  color: #594D78;
+}
+.social-links a:hover {
+  color: #975D9A;
 }
 
 /**
@@ -149,7 +189,7 @@ h1, h2, h3, h4, h5 {
   margin-bottom: 18px;
 }
 .features .card {
-  min-height: 196px;
+  min-height: 224px;
 }
 .social {
   text-align: center;
@@ -201,7 +241,7 @@ h1, h2, h3, h4, h5 {
   background: url(http://subtlepatterns.com/patterns/paisley.png) #fefefe;
 }
 ul.tech {
-  margin: 4px 0;
+  margin: 8px 0;
   padding: 0;
   width: 100%;
 }
@@ -252,15 +292,28 @@ ul.tech .mongodb {
  * Footer
  */
 footer {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
   height: 124px;
-  background: url(https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/develop/img/bg-delaunay.png) no-repeat center center #544c7a;
+  background: url(https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/master/img/bg-delaunay.png) no-repeat top center #544c7a;
   padding: 8px 24px;
   color: #cecece;
+  border-top: 1px solid #fff;
 }
 footer a:hover {
   color: #efefef;
 }
 
+/**
+ * Elements
+ */
+.github-fork-ribbon {
+  background-color: #975D9A!important;
+  -moz-transition: all .2s ease-in;
+  -o-transition: all .2s ease-in;
+  -webkit-transition: all .2s ease-in;
+  transition: all .2s ease-in;
+}
 
 /**
  * Media Queries
