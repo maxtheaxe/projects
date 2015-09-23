@@ -1,7 +1,7 @@
 - name: Teacher salaries by state
-  github: chrisvogt/paycompare
-  demo: http://paycompare.chrisvogt.me
-  banner: https://cdn.rawgit.com/chrisvogt/paycompare/master/app/banner.png
+  github: chrisvogt/teacher-salaries
+  demo: http://teacher-salaries.chrisvogt.me
+  banner: https://cdn.rawgit.com/chrisvogt/teacher-salaries/master/app/banner.png
   tech: ['jQuery', 'HTML5']
 
 - name: Kildekoden repository viewer
