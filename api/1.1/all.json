@@ -1,0 +1,17 @@
+---
+layout: none
+---
+{
+	"projects": [
+		{% for project in site.data.projects %}
+		{
+			"id": {{forloop.index}},
+			"name": {{project.name | jsonify}},
+			"github": {% if project.github %}{{project.github | jsonify}}{% else %}null{% endif %},
+			"demo": {%if project.demo %}{{project.demo | jsonify}}{% else %}null{% endif %},
+			"banner": {{project.banner | jsonify}},
+			"thumb": {% if project.thumb %}{{project.thumb | jsonify}}{% else %}null{% endif %}
+		}{% if forloop.rindex0 > 0 %},{% endif %}
+		{% endfor %}
+	]
+}
