@@ -1,100 +1,93 @@
-- name: Teacher salaries by state
+- name: "Chart: avg. teacher salaries, by state"
   github: chrisvogt/teacher-salaries
   demo: http://teacher-salaries.chrisvogt.me
   banner: https://cdn.rawgit.com/chrisvogt/teacher-salaries/master/app/banner.png
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/teach-salaries.png
   tech: ['jQuery', 'HTML5']
 
-- name: Kildekoden repository viewer
+- name: Kildekoden
   github: chrisvogt/kildekoden
-  demo: http://kildeko.de
+  demo: http://kildekoden.com
   banner: https://cdn.rawgit.com/kildekoden/kildekoden/master/source/webroot/img/banner.jpg
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/kildekoden.jpg
   tech: ['PHP', 'CakePHP', 'jQuery', 'MongoDB']
 
-- name: CHRISVOGT.me website
-  github: chrisvogt/chrisvogt.me
+- name: Quartzite (CHRISVOGT.me)
+  github: chrisvogt/quartzite
   demo: http://www.chrisvogt.me
-  banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.me/master/screenshot.jpg
+  banner: https://cdn.rawgit.com/chrisvogt/quartzite/master/app/images/material-bg.jpg
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/cvme.jpg
-  tech: ['Ruby', 'Jekyll', 'jQuery']
+  tech: ['node.js', 'grunt', 'bower', 'jQuery', 'HTML5']
 
-- name: Developer project portfolio
+- name: projects.chrisvogt.me
   github: chrisvogt/projects
   banner: https://cdn.rawgit.com/chrisvogt/projects/develop/screenshot.jpg
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/projects.jpg
   tech: ['Ruby', 'Jekyll']
 
-- name: Developer stats dashbaord
+- name: stats.chrisvogt.me
   github: chrisvogt/stats
   demo: http://stats.chrisvogt.me
   banner: https://cdn.rawgit.com/chrisvogt/stats/develop/webroot/img/screenshot.png
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/stats.png
   tech: ['PHP', 'CakePHP', 'jQuery']
 
-- name: WOWCHAR.info character viewer
+- name: WOWCHAR.info
   github: chrisvogt/wowchar-info
   demo: http://wowchar.info
   banner: https://res.cloudinary.com/chrisvogt/image/upload/v1436837482/projects/wowchar/wow-banner.jpg
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/wowchar.jpg
   tech: ['PHP', 'CakePHP']
 
-- name: "GamertagDB, gamertag sharing app"
+- name: "GamertagDB"
   demo: http://www.gamertagdb.com
   banner: https://res.cloudinary.com/chrisvogt/image/upload/v1422103155/gamertagdb/email/GTMainPicture.jpg
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/gamertagdb.jpg
   tech: ['PHP', 'CakePHP']
 
-- name: JavaScript prime number experiment
+- name: "Experiment: prime numbers game"
   github: chrisvogt/JS-Primality-Experiment
   demo: http://chrisvogt.github.io/primality/
-  banner: https://cdn.rawgit.com/chrisvogt/JS-Primality-Experiment/develop/screenshot.gif
+  banner: https://github.com/chrisvogt/projects.git
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/primality.jpg
   tech: ['jQuery', 'HTML5']
 
-- name: UI.Layout interface experiment
+- name: jQuery UI.Layout interface
   github: artinreality/UI.Layout-Test-Layout
   demo: http://www.artinreality.com/pane-layout/
   banner: "https://res.cloudinary.com/chrisvogt/image/upload/c_scale,h_352/v1435650144/ui-layout-example_ecky1r.jpg"
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/ui-layout.jpg
   tech: ['jQuery', 'HTML5']
 
-- name: Friends Of Cake Jekyll site
-  github: chrisvogt/FriendsOfCake.github.io
-  demo: http://www.friendsofcake.com
-  banner: https://cdn.rawgit.com/FriendsOfCake/FriendsOfCake.github.io/master/img/jumbotron.jpg
-  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/foc.jpg
-  tech: ['Ruby', 'Jekyll']
-
-- name: "Art In Reality, LLC website"
+- name: "artinreality.com"
   github: artinreality/artinreality.github.io
   demo: http://www.artinreality.com
   banner: https://cdn.rawgit.com/artinreality/artinreality.github.io/develop/img/og-banner.png
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/air.png
   tech: ['HTML5']
 
-- name: "WoW character info, a Polymer component"
+- name: "Polymer component: WoW character card"
   github: chrisvogt/wow-profile-card
   demo: http://chrisvogt.github.io/wow-profile-card/bower_components/wow-profile-card/demo.html
   banner: https://res.cloudinary.com/chrisvogt/image/upload/v1420461939/wow-profile-card_p6i5ys.jpg
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/wowc.jpg
   tech: ['Polymer']
 
-- name: GitHub repo viewer Polymer component
+- name: "Polymer component: GitHub repository card"
   github: chrisvogt/github-repo-card
   demo: http://chrisvogt.github.io/github-repo-card/components/github-repo-card/demo.html
   banner: https://res.cloudinary.com/chrisvogt/image/upload/v1420351341/screenshot-github-repo-card_tqlf5w.png
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/ghrepo.jpg
   tech: ['Polymer']
 
-- name: Wordpress.org Support Enhancement Kit
+- name: "Chome Extension: Wordpress.org Enhancement Kit"
   github: chrisvogt/wordpress-support-enhancement-kit
   demo: https://chrome.google.com/webstore/detail/wordpressorg-support-enha/mlodkondjlhhbhcokbpgiafemehdcbel
   banner: https://cdn.rawgit.com/chrisvogt/wordpress-support-enhancement-kit/master/assets/banner.png
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/wsek.png
   tech: ['Chrome']
 
-- name: "Marble Interface, free Tumblr theme"
+- name: "Tumblr theme: Marble Interface"
   github: chrisvogt/marbleinterface-tumblr
   demo: http://marbleinterface.tumblr.com
   banner: https://res.cloudinary.com/chrisvogt/image/upload/v1430085209/projects/marbleinterface-banner.jpg
@@ -107,13 +100,13 @@
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/default.png
   tech: ['PHP', 'CakePHP']
 
-- name: "CakePHP Wyzant API consumer library"
+- name: "CakePHP Wyzant API consumer"
   github: chrisvogt/WyzantSearch
   banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/master/img/bg-delaunay.png
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/default.png
   tech: ['PHP', 'CakePHP']
 
-- name: "PHP Menu Scraping library"
+- name: "PHP Menu Scraping Tools"
   github: chrisvogt/php-menu-grab-and-convert
   banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/master/img/bg-delaunay.png
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/default.png
