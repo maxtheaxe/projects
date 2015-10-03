@@ -48,7 +48,7 @@
 - name: "Experiment: prime numbers game"
   github: chrisvogt/JS-Primality-Experiment
   demo: http://chrisvogt.github.io/primality/
-  banner: https://github.com/chrisvogt/projects.git
+  banner: https://cdn.rawgit.com/chrisvogt/primality/develop/img/og-banner.jpg
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/primality.jpg
   tech: ['jQuery', 'HTML5']
 
