@@ -1,4 +1,4 @@
-# Project Directory
+# Projects directory (projects.chrisvogt.me)
 
 <img src="https://res.cloudinary.com/chrisvogt/image/upload/v1435401303/chrisvogt-me/thumb/projects.png" alt="Project element preview" height="300" width="300" align="right">
 
@@ -9,7 +9,7 @@
 
 A web developer's portfolio of projects; the source code behind [projects.chrisvogt.me](http://projects.chrisvogt.me). Use to build your own project directory and host free on [GitHub Pages](https://pages.github.com).
 
-### How To Use
+## How To Use
 
 - [ ] Fork this project.
 - [ ] Add your _projects_ to `_data/projects.yml`.
@@ -18,19 +18,21 @@ A web developer's portfolio of projects; the source code behind [projects.chrisv
 - [ ] Configure your site settings in `_config.yml`.
 - [ ] Deploy to your `gh-pages` branch. ([Learn more](https://help.github.com/articles/creating-project-pages-manually/#create-a-gh-pages-branch).)
 
-### Developer Notes
+## Screenshot
+[![Project Directory](screenshot.jpg)](http://projects.chrisvogt.me)
 
-_Requires `ruby`, `bower` and `jekyll` to build._
-
-Please follow the [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow/) when contributing to this project. The default branch should be used for the pull request base branch. (Branch: `develop`.)
-
-### License
+## License
 
 MIT
 
-### Screenshot
-[![Project Directory](screenshot.jpg)](http://projects.chrisvogt.me)
+## Built with
 
-___
-
-<img src="https://cdn.rawgit.com/jekyll/brand/master/jekyll-logo-light-transparent.png" alt="Jekyll logo" height="70" align="right" /> <img src="http://bower.io/img/bower-logo.svg" alt="Made with Bower" height="70" align="right"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="Made with Ruby" height="70" align="right">
+<p align="left">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node.js" height="48">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="Ruby" height="48">
+	<img src="http://upload.wikimedia.org/wikipedia/en/9/9e/JQuery_logo.svg" alt="jQuery" height="48">
+	<img src="https://cdn.rawgit.com/jekyll/brand/master/jekyll-logo-light-transparent.png" alt="Jekyll" height="48">
+	<img src="http://bower.io/img/bower-logo.svg" alt="Bower.js" height="48">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/CSS3_and_HTML5_badges.svg" alt="HTML5 &amp; CSS3" height="48">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Boostrap_logo.svg" alt="Twitter Bootstrap" height="48">
+</p>
