@@ -126,6 +126,7 @@ footer .fa-twitter {
   background: url('https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/master/img/bg-delaunay.png') top center #6F5387;
   background-size: cover;
   min-height: 15%;
+  border-bottom: 1px solid #fff;
 }
 .navbar-toggle {
   float: left;
@@ -137,7 +138,6 @@ footer .fa-twitter {
   text-align: right;
 }
 #viewport {
-  background: url('../img/header-accent.png') repeat-x top;
   padding-top: 18px;
 }
 
