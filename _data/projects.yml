@@ -1,9 +1,16 @@
+- name: "jQuery Goodreads widget"
+  github: chrisvogt/jquery-recentreads
+  demo: https://chrisvogt.github.io/jquery-recentreads/demo.html
+  banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/master/img/bg-delaunay.png
+  thumb: http://res.cloudinary.com/chrisvogt/image/upload/v1444612976/thumbs/jquery-recentreads.jpg
+  tech: ['jQuery', 'node.js', 'jekyll', 'grunt', 'bower', 'sass']
+
 - name: "Chart: avg. teacher salaries, by state"
   github: chrisvogt/teacher-salaries
   demo: http://teacher-salaries.chrisvogt.me
   banner: https://cdn.rawgit.com/chrisvogt/teacher-salaries/master/app/banner.png
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/teach-salaries.png
-  tech: ['jQuery', 'HTML5']
+  tech: ['jQuery', 'HTML5', 'sass']
 
 - name: Kildekoden
   github: chrisvogt/kildekoden
