@@ -1,8 +1,8 @@
 - name: "jQuery Goodreads widget"
   github: chrisvogt/jquery-recentreads
   demo: https://chrisvogt.github.io/jquery-recentreads/demo.html
-  banner: https://res.cloudinary.com/chrisvogt/image/upload/v1444614055/screenshot-recentreads_cmlldf.jpg
-  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1444612976/thumbs/jquery-recentreads.jpg
+  banner: https://cdn.rawgit.com/chrisvogt/jquery-recentreads/master/screenshot.png
+  thumb: http://res.cloudinary.com/chrisvogt/image/upload/v1444612976/thumbs/jquery-recentreads.jpg
   tech: ['jQuery', 'node.js', 'jekyll', 'grunt', 'bower', 'sass']
 
 - name: "Chart: avg. teacher salaries, by state"
@@ -42,7 +42,7 @@
 - name: WOWCHAR.info
   github: chrisvogt/wowchar-info
   demo: http://wowchar.info
-  banner: https://res.cloudinary.com/chrisvogt/image/upload/v1436837482/projects/wowchar/wow-banner.jpg
+  banner: https://cdn.rawgit.com/chrisvogt/wowchar-info/master/webroot/img/screenshot.jpg
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/wowchar.jpg
   tech: ['PHP', 'CakePHP']
 
