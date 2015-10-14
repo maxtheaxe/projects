@@ -2,7 +2,7 @@
   github: chrisvogt/jquery-recentreads
   demo: https://chrisvogt.github.io/jquery-recentreads/demo.html
   banner: https://cdn.rawgit.com/chrisvogt/jquery-recentreads/master/screenshot.png
-  thumb: http://res.cloudinary.com/chrisvogt/image/upload/v1444612976/thumbs/jquery-recentreads.jpg
+  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1444612976/thumbs/jquery-recentreads.jpg
   tech: ['jQuery', 'node.js', 'jekyll', 'grunt', 'bower', 'sass']
 
 - name: "Chart: avg. teacher salaries, by state"
