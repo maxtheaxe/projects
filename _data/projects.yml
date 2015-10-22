@@ -3,61 +3,61 @@
   demo: https://chrisvogt.github.io/jquery-recentreads/demo.html
   banner: https://cdn.rawgit.com/chrisvogt/jquery-recentreads/master/screenshot.png
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1444612976/thumbs/jquery-recentreads.jpg
-  tech: ['jQuery', 'node.js', 'jekyll', 'grunt', 'bower', 'sass']
+  tech: ['jQuery', 'grunt', 'bower', 'sass']
 
 - name: "Chart: avg. teacher salaries, by state"
   github: chrisvogt/teacher-salaries
   demo: http://teacher-salaries.chrisvogt.me
   banner: https://cdn.rawgit.com/chrisvogt/teacher-salaries/master/app/banner.png
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/teach-salaries.png
-  tech: ['jQuery', 'HTML5', 'sass']
+  tech: ['jQuery', 'HTML5', 'foundation', 'bower', 'grunt', 'sass']
 
 - name: Kildekoden
   github: chrisvogt/kildekoden
   demo: http://kildekoden.com
   banner: https://cdn.rawgit.com/kildekoden/kildekoden/master/source/webroot/img/banner.jpg
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/kildekoden.jpg
-  tech: ['PHP', 'CakePHP', 'jQuery', 'MongoDB']
+  tech: ['PHP', 'CakePHP', 'jQuery', 'MongoDB', 'bower', 'html5', 'bootstrap']
 
 - name: Quartzite (CHRISVOGT.me)
   github: chrisvogt/quartzite
   demo: http://www.chrisvogt.me
   banner: https://cdn.rawgit.com/chrisvogt/quartzite/master/app/images/material-bg.jpg
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/cvme.jpg
-  tech: ['node.js', 'grunt', 'bower', 'jQuery', 'HTML5']
+  tech: ['jQuery', 'grunt', 'bower', 'HTML5', 'foundation', 'sass']
 
 - name: projects.chrisvogt.me
   github: chrisvogt/projects
   banner: https://cdn.rawgit.com/chrisvogt/projects/develop/screenshot.jpg
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/projects.jpg
-  tech: ['Ruby', 'Jekyll']
+  tech: ['Jekyll', 'bower', 'html5', 'bootstrap']
 
 - name: stats.chrisvogt.me
   github: chrisvogt/stats
   demo: http://stats.chrisvogt.me
   banner: https://cdn.rawgit.com/chrisvogt/stats/develop/webroot/img/screenshot.png
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/stats.png
-  tech: ['PHP', 'CakePHP', 'jQuery']
+  tech: ['PHP', 'CakePHP', 'jQuery', 'bower', 'HTML5', 'bootstrap']
 
 - name: WOWCHAR.info
   github: chrisvogt/wowchar-info
   demo: http://wowchar.info
   banner: https://cdn.rawgit.com/chrisvogt/wowchar-info/master/webroot/img/screenshot.jpg
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/wowchar.jpg
-  tech: ['PHP', 'CakePHP']
+  tech: ['PHP', 'CakePHP', 'bower', 'html5', 'bootstrap']
 
 - name: "GamertagDB"
   demo: http://www.gamertagdb.com
   banner: https://res.cloudinary.com/chrisvogt/image/upload/v1422103155/gamertagdb/email/GTMainPicture.jpg
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/gamertagdb.jpg
-  tech: ['PHP', 'CakePHP']
+  tech: ['PHP', 'CakePHP', 'jQuery', 'bootstrap', 'html5']
 
 - name: "Experiment: prime numbers game"
   github: chrisvogt/JS-Primality-Experiment
   demo: http://chrisvogt.github.io/primality/
   banner: https://cdn.rawgit.com/chrisvogt/primality/develop/img/og-banner.jpg
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/primality.jpg
-  tech: ['jQuery', 'HTML5']
+  tech: ['jQuery', 'HTML5', 'bootstrap']
 
 - name: jQuery UI.Layout interface
   github: artinreality/UI.Layout-Test-Layout
