@@ -19,6 +19,20 @@
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/kildekoden.jpg
   tech: ['PHP', 'CakePHP', 'jQuery', 'MongoDB', 'bower', 'html5', 'bootstrap']
 
+- name: WOWCHAR.info
+  github: chrisvogt/wowchar-info
+  demo: http://wowchar.info
+  banner: https://cdn.rawgit.com/chrisvogt/wowchar-info/master/webroot/img/screenshot.jpg
+  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/wowchar.jpg
+  tech: ['PHP', 'CakePHP', 'bower', 'html5', 'bootstrap']
+
+- name: stats.chrisvogt.me
+  github: chrisvogt/stats
+  demo: http://stats.chrisvogt.me
+  banner: https://cdn.rawgit.com/chrisvogt/stats/master/webroot/img/screenshot.jpg
+  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/stats.png
+  tech: ['PHP', 'CakePHP', 'jQuery', 'bower', 'HTML5', 'bootstrap']
+
 - name: Quartzite (CHRISVOGT.me)
   github: chrisvogt/quartzite
   demo: http://www.chrisvogt.me
@@ -31,20 +45,6 @@
   banner: https://cdn.rawgit.com/chrisvogt/projects/develop/screenshot.jpg
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/projects.jpg
   tech: ['Jekyll', 'bower', 'html5', 'bootstrap']
-
-- name: stats.chrisvogt.me
-  github: chrisvogt/stats
-  demo: http://stats.chrisvogt.me
-  banner: https://cdn.rawgit.com/chrisvogt/stats/develop/webroot/img/screenshot.png
-  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/stats.png
-  tech: ['PHP', 'CakePHP', 'jQuery', 'bower', 'HTML5', 'bootstrap']
-
-- name: WOWCHAR.info
-  github: chrisvogt/wowchar-info
-  demo: http://wowchar.info
-  banner: https://cdn.rawgit.com/chrisvogt/wowchar-info/master/webroot/img/screenshot.jpg
-  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/wowchar.jpg
-  tech: ['PHP', 'CakePHP', 'bower', 'html5', 'bootstrap']
 
 - name: "GamertagDB"
   demo: http://www.gamertagdb.com
