@@ -1,11 +1,4 @@
-- name: "jQuery Goodreads widget"
-  github: chrisvogt/jquery-recentreads
-  demo: https://chrisvogt.github.io/jquery-recentreads/demo.html
-  banner: https://cdn.rawgit.com/chrisvogt/jquery-recentreads/master/screenshot.png
-  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1444612976/thumbs/jquery-recentreads.jpg
-  tech: ['jQuery', 'grunt', 'bower', 'sass']
-
-- name: "Chart: avg. teacher salaries, by state"
+- name: "Compare teacher salaries by state"
   github: chrisvogt/teacher-salaries
   demo: http://teacher-salaries.chrisvogt.me
   banner: https://cdn.rawgit.com/chrisvogt/teacher-salaries/master/app/banner.png
@@ -18,6 +11,13 @@
   banner: https://cdn.rawgit.com/kildekoden/kildekoden/master/source/webroot/img/banner.jpg
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/kildekoden.jpg
   tech: ['PHP', 'CakePHP', 'jQuery', 'MongoDB', 'bower', 'html5', 'bootstrap']
+
+- name: "jQuery Goodreads widget"
+  github: chrisvogt/jquery-recentreads
+  demo: https://chrisvogt.github.io/jquery-recentreads/demo.html
+  banner: https://res.cloudinary.com/chrisvogt/image/upload/v1444770347/projects/recentreads/og-banner.jpg
+  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1444612976/thumbs/jquery-recentreads.jpg
+  tech: ['jQuery', 'grunt', 'bower', 'sass']
 
 - name: WOWCHAR.info
   github: chrisvogt/wowchar-info
@@ -48,7 +48,7 @@
 
 - name: "GamertagDB"
   demo: http://www.gamertagdb.com
-  banner: https://res.cloudinary.com/chrisvogt/image/upload/v1422103155/gamertagdb/email/GTMainPicture.jpg
+  banner: https://res.cloudinary.com/chrisvogt/image/upload/v1449279100/projects/gamertagdb-screenshot.jpg
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/gamertagdb.jpg
   tech: ['PHP', 'CakePHP', 'jQuery', 'bootstrap', 'html5']
 
