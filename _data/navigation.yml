@@ -1,19 +1,24 @@
-- title: CHRISVOGT.me
-  text: Blog
+- title: "CHRISVOGT.me"
+  text: Home
   icon: fa-home
   href: https://www.chrisvogt.me
 
-- title: Open source projects by Chris Vogt
-  text: Projects
-  icon: fa-floppy-o
-  href: http://projects.chrisvogt.me
-
-- title: Open source contributions by Chris Vogt
+- title: "My coding habits, last 30 days"
   text: Stats
-  icon: fa-history
+  icon: fa-area-chart
   href: http://stats.chrisvogt.me
 
-- title: Chris Vogt's résumé
-  text: Résumé <i class="fa fa-external-link"></i>
+- title: "chrisvogt on GitHub"
+  text: Projects
+  icon: fa-floppy-o
+  href: "https://www.chrisvogt.me/#projects"
+
+- title: "About me"
+  text: About Me
+  icon: fa-user
+  href: "https://www.chrisvogt.me/#about"
+
+- title: "My résumé"
+  text: Résumé
   icon: fa-briefcase
   href: https://resume.chrisvogt.me

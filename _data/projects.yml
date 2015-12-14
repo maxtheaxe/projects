@@ -5,7 +5,7 @@
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/teach-salaries.png
   tech: ['jQuery', 'HTML5', 'foundation', 'bower', 'grunt', 'sass']
 
-- name: Kildekoden
+- name: Kildekoden repository explorer
   github: chrisvogt/kildekoden
   demo: http://kildekoden.com
   banner: https://cdn.rawgit.com/kildekoden/kildekoden/master/source/webroot/img/banner.jpg
@@ -19,30 +19,30 @@
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1444612976/thumbs/jquery-recentreads.jpg
   tech: ['jQuery', 'grunt', 'bower', 'sass']
 
-- name: WOWCHAR.info
+- name: WoW character viewer
   github: chrisvogt/wowchar-info
   demo: http://wowchar.info
   banner: https://cdn.rawgit.com/chrisvogt/wowchar-info/master/webroot/img/screenshot.jpg
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/wowchar.jpg
   tech: ['PHP', 'CakePHP', 'bower', 'html5', 'bootstrap']
 
-- name: stats.chrisvogt.me
+- name: My coding stats report
   github: chrisvogt/stats
   demo: http://stats.chrisvogt.me
   banner: https://cdn.rawgit.com/chrisvogt/stats/master/webroot/img/screenshot.jpg
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/stats.png
   tech: ['PHP', 'CakePHP', 'jQuery', 'bower', 'HTML5', 'bootstrap']
 
-- name: Quartzite (CHRISVOGT.me)
+- name: www.chrisvogt.me (Quartzite)
   github: chrisvogt/quartzite
   demo: http://www.chrisvogt.me
-  banner: https://cdn.rawgit.com/chrisvogt/quartzite/master/app/images/material-bg.jpg
+  banner: https://res.cloudinary.com/chrisvogt/image/upload/v1433903064/og-banner_saphne.jpg
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/cvme.jpg
   tech: ['jQuery', 'grunt', 'bower', 'HTML5', 'foundation', 'sass']
 
-- name: projects.chrisvogt.me
+- name: Projects directory
   github: chrisvogt/projects
-  banner: https://cdn.rawgit.com/chrisvogt/projects/develop/screenshot.jpg
+  banner: https://cdn.rawgit.com/chrisvogt/projects/master/img/og-banner.png
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/projects.jpg
   tech: ['Jekyll', 'bower', 'html5', 'bootstrap']
 
@@ -87,14 +87,14 @@
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/ghrepo.jpg
   tech: ['Polymer']
 
-- name: "Chome Extension: Wordpress.org Enhancement Kit"
+- name: "Wordpress.org Enhancement Kit (Chrome extension)"
   github: chrisvogt/wordpress-support-enhancement-kit
   demo: https://chrome.google.com/webstore/detail/wordpressorg-support-enha/mlodkondjlhhbhcokbpgiafemehdcbel
   banner: https://cdn.rawgit.com/chrisvogt/wordpress-support-enhancement-kit/master/assets/banner.png
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/wsek.png
   tech: ['Chrome']
 
-- name: "Tumblr theme: Marble Interface"
+- name: "Marble Interface (Tumblr theme)"
   github: chrisvogt/marbleinterface-tumblr
   demo: http://marbleinterface.tumblr.com
   banner: https://res.cloudinary.com/chrisvogt/image/upload/v1430085209/projects/marbleinterface-banner.jpg
@@ -103,18 +103,18 @@
 
 - name: WakaTime CakePHP plugin
   github: chrisvogt/cakephp-wakatime
-  banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/master/img/bg-delaunay.png
+  banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.me/master/img/bg-delaunay.png
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/default.png
   tech: ['PHP', 'CakePHP']
 
 - name: "CakePHP Wyzant API consumer"
   github: chrisvogt/WyzantSearch
-  banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/master/img/bg-delaunay.png
+  banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.me/master/img/bg-delaunay.png
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/default.png
   tech: ['PHP', 'CakePHP']
 
-- name: "PHP Menu Scraping Tools"
+- name: "PHP menu scraping toolkit"
   github: chrisvogt/php-menu-grab-and-convert
-  banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/master/img/bg-delaunay.png
+  banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.me/master/img/bg-delaunay.png
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/default.png
   tech: ['PHP']
