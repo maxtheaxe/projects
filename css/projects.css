@@ -30,7 +30,7 @@ body {
  * Typography
  */
 body {
-  font-family: 'Merriweather', sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
 }
 a {
   color: #cecece;
@@ -40,15 +40,14 @@ a:hover {
   color: #fefefe;
   text-decoration: none;
 }
-.social-links a:hover {
+.offcanvas .social-links a:hover {
   color: #5E4F84;
 }
 h1 {
   text-align: center;
   color:#fff;
-  font: 10em/1 "Open Sans", sans-serif;
-  font-weight: 700;
-  text-transform: uppercase;
+  font: 5em/1.4 "Open Sans", sans-serif;
+  font-weight: 300;
   display: inline-block;
   width: 100%;
 }
@@ -123,10 +122,20 @@ footer .fa-twitter {
  */
 .page-header {
   margin: 0 auto;
-  background: url('https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/master/img/bg-delaunay.png') top center #6F5387;
-  background-size: cover;
   min-height: 15%;
-  border-bottom: 1px solid #fff;
+  border-bottom: none;
+
+  background: rgba(69,39,160,1);
+  background: -moz-linear-gradient(45deg, rgba(69,39,160,1) 0%, rgba(113,30,155,1) 100%);
+  background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(69,39,160,1)), color-stop(100%, rgba(113,30,155,1)));
+  background: -webkit-linear-gradient(45deg, rgba(69,39,160,1) 0%, rgba(113,30,155,1) 100%);
+  background: -o-linear-gradient(45deg, rgba(69,39,160,1) 0%, rgba(113,30,155,1) 100%);
+  background: -ms-linear-gradient(45deg, rgba(69,39,160,1) 0%, rgba(113,30,155,1) 100%);
+  background: linear-gradient(45deg, rgba(69,39,160,1) 0%, rgba(113,30,155,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4527a0', endColorstr='#711e9b', GradientType=1 );
+}
+.page-header p.lead {
+  color: #cecece;
 }
 .navbar-toggle {
   float: left;
@@ -157,7 +166,7 @@ footer .fa-twitter {
 .navmenu-nav .fa-external-link {
   font-size: .74em;
 }
-.social-links {
+.offcanvas .social-links {
   margin: 0;
   padding: 0;
   position: absolute;
@@ -169,10 +178,10 @@ footer .fa-twitter {
 .social-links li {
   display: inline-block;
 }
-.social-links a {
+.offcanvas .social-links a {
   color: #594D78;
 }
-.social-links a:hover {
+.offcanvas .social-links a:hover {
   color: #975D9A;
 }
 
@@ -192,26 +201,26 @@ footer .fa-twitter {
   min-height: 224px;
 }
 .social {
-  text-align: center;
-  height: 38px;
+  min-height: 38px;
 
-  padding: 0;
-  margin-bottom: 24px;
-  border-bottom: 1px solid #cecece;
-  border-top: 1px solid white;
+/*  padding: 1rem; */
 
-  background: #ffffff; /* Old browsers */
-  background: -moz-linear-gradient(top, #ffffff 0%, #f3f3f3 50%, #ededed 51%, #ffffff 100%); /* FF3.6+ */
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(50%,#f3f3f3), color-stop(51%,#ededed), color-stop(100%,#ffffff)); /* Chrome,Safari4+ */
-  background: -webkit-linear-gradient(top, #ffffff 0%,#f3f3f3 50%,#ededed 51%,#ffffff 100%); /* Chrome10+,Safari5.1+ */
-  background: -o-linear-gradient(top, #ffffff 0%,#f3f3f3 50%,#ededed 51%,#ffffff 100%); /* Opera 11.10+ */
-  background: -ms-linear-gradient(top, #ffffff 0%,#f3f3f3 50%,#ededed 51%,#ffffff 100%); /* IE10+ */
-  background: linear-gradient(to bottom, #ffffff 0%,#f3f3f3 50%,#ededed 51%,#ffffff 100%); /* W3C */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+  background: rgba(10,35,100,1);
+  background: -moz-linear-gradient(-45deg, rgba(10,35,100,1) 0%, rgba(113,30,155,1) 100%);
+  background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(10,35,100,1)), color-stop(100%, rgba(113,30,155,1)));
+  background: -webkit-linear-gradient(-45deg, rgba(10,35,100,1) 0%, rgba(113,30,155,1) 100%);
+  background: -o-linear-gradient(-45deg, rgba(10,35,100,1) 0%, rgba(113,30,155,1) 100%);
+  background: -ms-linear-gradient(-45deg, rgba(10,35,100,1) 0%, rgba(113,30,155,1) 100%);
+  background: linear-gradient(135deg, rgba(10,35,100,1) 0%, rgba(113,30,155,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0a2364', endColorstr='#711e9b', GradientType=1 );
 }
 .social .social-links {
   font-size: 1.4em;
   line-height: 38px;
+  color: #cecece;
+}
+.social .social-links:hover {
+  color: #fff;
 }
 .offcanvas .social-links {
   text-align: center;
@@ -295,7 +304,7 @@ footer {
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   height: 124px;
-  background: url(https://cdn.rawgit.com/chrisvogt/chrisvogt.github.io/master/img/bg-delaunay.png) no-repeat top center #544c7a;
+  background: url("https://cdn.rawgit.com/chrisvogt/chrisvogt.me/master/img/bg-delaunay.png") no-repeat top center #544c7a;
   padding: 8px 24px;
   color: #cecece;
   border-top: 1px solid #fff;
@@ -325,7 +334,10 @@ footer a:hover {
 }
 @media (max-width: 992px) {
   h1 {
-    font: 5em/1 "Droid Sans";
+    font-size: 2.75em;
+    line-height: 1.4em;
+    text-rendering: optimizeLegibility;
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
   }
 }
 @media (min-width: 992px) {
