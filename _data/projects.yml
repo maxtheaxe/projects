@@ -12,19 +12,12 @@
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/kildekoden.jpg
   tech: ['PHP', 'CakePHP', 'jQuery', 'MongoDB', 'bower', 'html5', 'bootstrap']
 
-- name: "jQuery Goodreads widget"
-  github: chrisvogt/jquery-recentreads
-  demo: https://chrisvogt.github.io/jquery-recentreads/demo.html
-  banner: https://res.cloudinary.com/chrisvogt/image/upload/v1444770347/projects/recentreads/og-banner.jpg
-  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1444612976/thumbs/jquery-recentreads.jpg
-  tech: ['jQuery', 'grunt', 'bower', 'sass']
-
-- name: WoW character viewer
+- name: WoW character stats
   github: chrisvogt/wowchar-info
   demo: http://wowchar.info
-  banner: https://cdn.rawgit.com/chrisvogt/wowchar-info/master/webroot/img/screenshot.jpg
+  banner: https://cdn.rawgit.com/chrisvogt/wowchar-info/master/fos/images/screenshot.jpg
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/wowchar.jpg
-  tech: ['PHP', 'CakePHP', 'bower', 'html5', 'bootstrap']
+  tech: ['PHP', 'CakePHP', 'jQuery', 'bower', 'grunt', 'html5', 'bootstrap']
 
 - name: My coding stats report
   github: chrisvogt/stats
@@ -32,6 +25,13 @@
   banner: https://cdn.rawgit.com/chrisvogt/stats/master/webroot/img/screenshot.jpg
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/stats.png
   tech: ['PHP', 'CakePHP', 'jQuery', 'bower', 'HTML5', 'bootstrap']
+
+- name: "jQuery Goodreads widget"
+  github: chrisvogt/jquery-recentreads
+  demo: https://chrisvogt.github.io/jquery-recentreads/demo.html
+  banner: https://res.cloudinary.com/chrisvogt/image/upload/v1444770347/projects/recentreads/og-banner.jpg
+  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1444612976/thumbs/jquery-recentreads.jpg
+  tech: ['jQuery', 'grunt', 'bower', 'sass']
 
 - name: www.chrisvogt.me (Quartzite)
   github: chrisvogt/quartzite
