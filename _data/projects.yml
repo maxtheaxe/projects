@@ -24,7 +24,7 @@
   demo: http://stats.chrisvogt.me
   banner: https://cdn.rawgit.com/chrisvogt/stats/master/webroot/img/screenshot.jpg
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/stats.png
-  tech: ['PHP', 'CakePHP', 'jQuery', 'bower', 'HTML5', 'bootstrap']
+  tech: ['PHP', 'CakePHP', 'jQuery', 'grunt', 'bower', 'HTML5', 'foundation']
 
 - name: "jQuery Goodreads widget"
   github: chrisvogt/jquery-recentreads
