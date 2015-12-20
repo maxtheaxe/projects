@@ -22,7 +22,7 @@
 - name: My coding stats report
   github: chrisvogt/stats
   demo: http://stats.chrisvogt.me
-  banner: https://cdn.rawgit.com/chrisvogt/stats/master/webroot/img/screenshot.jpg
+  banner: https://cdn.rawgit.com/chrisvogt/stats/master/webroot/img/screenshot.png
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/stats.png
   tech: ['PHP', 'CakePHP', 'jQuery', 'grunt', 'bower', 'HTML5', 'foundation']
 
