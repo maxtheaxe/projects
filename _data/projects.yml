@@ -1,121 +1,13 @@
-- name: "Compare teacher salaries by state"
-  github: chrisvogt/teacher-salaries
-  demo: http://teacher-salaries.chrisvogt.me
-  banner: https://cdn.rawgit.com/chrisvogt/teacher-salaries/master/app/banner.png
-  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/teach-salaries.png
-  tech: ['jQuery', 'HTML5', 'foundation', 'bower', 'grunt', 'sass']
+- name: "plays.tv exporter"
+  github: maxtheaxe/plays.tv-exporter
+  demo: https://www.youtube.com/watch?v=dYEfzM-CmrM&feature=youtu.be
+  banner: https://www.solidbackgrounds.com/images/950x350/950x350-selective-yellow-solid-color-background.jpg
+  thumb: https://www.solidbackgrounds.com/images/950x350/950x350-robin-egg-blue-solid-color-background.jpg
+  tech: ['python']
 
-- name: Kildekoden repository explorer
-  github: chrisvogt/kildekoden
-  demo: http://kildekoden.com
-  banner: https://cdn.rawgit.com/kildekoden/kildekoden/master/source/webroot/img/banner.jpg
-  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/kildekoden.jpg
-  tech: ['PHP', 'CakePHP', 'jQuery', 'MongoDB', 'bower', 'html5', 'bootstrap']
-
-- name: WoW character stats
-  github: chrisvogt/wowchar-info
-  demo: http://wowchar.info
-  banner: https://cdn.rawgit.com/chrisvogt/wowchar-info/master/fos/images/screenshot.jpg
-  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/wowchar.jpg
-  tech: ['PHP', 'CakePHP', 'jQuery', 'bower', 'grunt', 'html5', 'bootstrap']
-
-- name: My coding stats report
-  github: chrisvogt/stats
-  demo: http://stats.chrisvogt.me
-  banner: https://cdn.rawgit.com/chrisvogt/stats/master/webroot/img/screenshot.png
-  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/stats.png
-  tech: ['PHP', 'CakePHP', 'jQuery', 'grunt', 'bower', 'HTML5', 'foundation']
-
-- name: "jQuery Goodreads widget"
-  github: chrisvogt/jquery-recentreads
-  demo: https://chrisvogt.github.io/jquery-recentreads/demo.html
-  banner: https://res.cloudinary.com/chrisvogt/image/upload/v1444770347/projects/recentreads/og-banner.jpg
-  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1444612976/thumbs/jquery-recentreads.jpg
-  tech: ['jQuery', 'grunt', 'bower', 'sass']
-
-- name: www.chrisvogt.me (Quartzite)
-  github: chrisvogt/quartzite
-  demo: https://www.chrisvogt.me
-  banner: https://res.cloudinary.com/chrisvogt/image/upload/v1433903064/og-banner_saphne.jpg
-  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/cvme.jpg
-  tech: ['jQuery', 'grunt', 'bower', 'HTML5', 'foundation', 'sass']
-
-- name: Projects directory
-  github: chrisvogt/projects
-  demo: https://projects.chrisvogt.me
-  banner: https://cdn.rawgit.com/chrisvogt/projects/master/img/og-banner.png
-  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/projects.jpg
-  tech: ['Jekyll', 'bower', 'html5', 'bootstrap']
-
-- name: "GamertagDB"
-  demo: http://www.gamertagdb.com
-  banner: https://res.cloudinary.com/chrisvogt/image/upload/v1449279100/projects/gamertagdb-screenshot.jpg
-  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/gamertagdb.jpg
-  tech: ['PHP', 'CakePHP', 'jQuery', 'bootstrap', 'html5']
-
-- name: "Experiment: prime numbers game"
-  github: chrisvogt/JS-Primality-Experiment
-  demo: http://chrisvogt.github.io/primality/
-  banner: https://cdn.rawgit.com/chrisvogt/primality/develop/img/og-banner.jpg
-  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/primality.jpg
-  tech: ['jQuery', 'HTML5', 'bootstrap']
-
-- name: jQuery UI.Layout interface
-  github: artinreality/UI.Layout-Test-Layout
-  demo: http://www.artinreality.com/pane-layout/
-  banner: "https://res.cloudinary.com/chrisvogt/image/upload/c_scale,h_352/v1435650144/ui-layout-example_ecky1r.jpg"
-  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/ui-layout.jpg
-  tech: ['jQuery', 'HTML5']
-
-- name: "artinreality.com"
-  github: artinreality/artinreality.github.io
-  demo: http://www.artinreality.com
-  banner: https://cdn.rawgit.com/artinreality/artinreality.github.io/develop/img/og-banner.png
-  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/air.png
-  tech: ['HTML5']
-
-- name: "Polymer component: WoW character card"
-  github: chrisvogt/wow-profile-card
-  demo: http://chrisvogt.github.io/wow-profile-card/bower_components/wow-profile-card/demo.html
-  banner: https://res.cloudinary.com/chrisvogt/image/upload/v1420461939/wow-profile-card_p6i5ys.jpg
-  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/wowc.jpg
-  tech: ['Polymer']
-
-- name: "Polymer component: GitHub repository card"
-  github: chrisvogt/github-repo-card
-  demo: http://chrisvogt.github.io/github-repo-card/components/github-repo-card/demo.html
-  banner: https://res.cloudinary.com/chrisvogt/image/upload/v1420351341/screenshot-github-repo-card_tqlf5w.png
-  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/ghrepo.jpg
-  tech: ['Polymer']
-
-- name: "Wordpress.org Enhancement Kit (Chrome extension)"
-  github: chrisvogt/wordpress-support-enhancement-kit
-  demo: https://chrome.google.com/webstore/detail/wordpressorg-support-enha/mlodkondjlhhbhcokbpgiafemehdcbel
-  banner: https://cdn.rawgit.com/chrisvogt/wordpress-support-enhancement-kit/master/assets/banner.png
-  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/wsek.png
-  tech: ['Chrome']
-
-- name: "Marble Interface (Tumblr theme)"
-  github: chrisvogt/marbleinterface-tumblr
-  demo: http://marbleinterface.tumblr.com
-  banner: https://res.cloudinary.com/chrisvogt/image/upload/v1430085209/projects/marbleinterface-banner.jpg
-  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/marbleinterface.jpg
-  tech: ['HTML5']
-
-- name: WakaTime CakePHP plugin
-  github: chrisvogt/cakephp-wakatime
-  banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.me/master/img/bg-delaunay.png
-  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/default.png
-  tech: ['PHP', 'CakePHP']
-
-- name: "CakePHP Wyzant API consumer"
-  github: chrisvogt/WyzantSearch
-  banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.me/master/img/bg-delaunay.png
-  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/default.png
-  tech: ['PHP', 'CakePHP']
-
-- name: "PHP menu scraping toolkit"
-  github: chrisvogt/php-menu-grab-and-convert
-  banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.me/master/img/bg-delaunay.png
-  thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/default.png
-  tech: ['PHP']
+- name: "dining hall helper"
+  github: maxtheaxe/dining-hall-helper
+  demo: 
+  banner: https://www.solidbackgrounds.com/images/950x350/950x350-selective-yellow-solid-color-background.jpg
+  thumb: https://www.solidbackgrounds.com/images/950x350/950x350-robin-egg-blue-solid-color-background.jpg
+  tech: ['nodeJS']

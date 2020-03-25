@@ -1,9 +1,9 @@
-title: "Project directory"
-author: "Chris Vogt"
-twitter: "C1V0"
-description: "Portfolio of personal projects made with PHP, CakePHP, Jekyll, Wordpress, and more."
-banner: "https://cdn.rawgit.com/chrisvogt/projects/master/img/og-banner.png"
-logo: "https://cdn.rawgit.com/chrisvogt/chrisvogt.me/master/img/favicon-152.png"
-analytics: "UA-33558417-8"
+title: "tnkr.xyz"
+author: "Max Perrello"
+twitter: "MaxPerrello"
+description: "a hub for all my dumb projects, in various stages of completion"
+banner: ""
+logo: "img/favicon-32x32.png"
+analytics: "UA-125984204-6"
 exclude:
   - README.md

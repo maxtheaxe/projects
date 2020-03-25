@@ -1,17 +1,11 @@
 - network: github
-  username: chrisvogt
+  username: maxtheaxe
 
 - network: twitter
-  username: c1v0
-
-- network: google+
-  username: chrisvogt94952
-
-- network: behance
-  username: chrisvogt
+  username: MaxPerrello
 
 - network: instagram
-  username: c1v0
+  username: mperrello
 
 - network: linkedin
-  username: cjvogt
+  username: maxperrello

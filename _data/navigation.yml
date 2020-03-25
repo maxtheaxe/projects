@@ -1,24 +1,9 @@
-- title: "CHRISVOGT.me"
-  text: Home
+- title: "max.bio"
+  text: "my main site"
   icon: fa-home
-  href: https://www.chrisvogt.me
+  href: https://perrello.com
 
-- title: "My coding habits, last 30 days"
-  text: Stats
-  icon: fa-area-chart
-  href: http://stats.chrisvogt.me
-
-- title: "chrisvogt on GitHub"
+- title: "maxtheaxe on GitHub"
   text: Projects
   icon: fa-floppy-o
   href: "https://www.chrisvogt.me/#projects"
-
-- title: "About me"
-  text: About Me
-  icon: fa-user
-  href: "https://www.chrisvogt.me/#about"
-
-- title: "My résumé"
-  text: Résumé
-  icon: fa-briefcase
-  href: https://resume.chrisvogt.me
